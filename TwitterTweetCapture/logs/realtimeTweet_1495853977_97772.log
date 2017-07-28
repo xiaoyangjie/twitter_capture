@@ -1,0 +1,33 @@
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 0's token_index 224
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 1's token_index 156
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 2's token_index 28
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 3's token_index 497
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 4's token_index 23
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 5's token_index 367
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 6's token_index 99
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 7's token_index 126
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 8's token_index 79
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 9's token_index 172
+Sat 27 May 2017 10:59:39 API.py [line:546] INFO 200 statuses/filter text thread 10's token_index 326
+Sat 27 May 2017 10:59:46 TwitterError.py [line:22] WARNING 400 statuses/filter text ('Connection aborted.', BadStatusLine("''",))
+Sat 27 May 2017 10:59:46 API.py [line:207] WARNING ('Connection aborted.', BadStatusLine("''",))
+Sat 27 May 2017 11:00:03 API.py [line:222] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'389320918', u'user_id': 389320918, u'id': 868292723236884481L, u'id_str': u'868292723236884481'}, u'timestamp_ms': u'1495853999194'}}
+Sat 27 May 2017 11:00:39 API.py [line:222] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'294712456', u'user_id': 294712456, u'id': 192794873139703809L, u'id_str': u'192794873139703809'}, u'timestamp_ms': u'1495854027639'}}
+Sat 27 May 2017 11:01:35 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:01:35 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:01:35 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:01:35 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:01:35 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:01:35 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:01:35 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:03:04 API.py [line:222] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'190386596', u'user_id': 190386596, u'id': 868078986064273409L, u'id_str': u'868078986064273409'}, u'timestamp_ms': u'1495854181343'}}
+Sat 27 May 2017 11:03:16 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:03:24 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:03:59 API.py [line:222] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'1724325319', u'user_id': 1724325319, u'id': 659462233705975808L, u'id_str': u'659462233705975808'}, u'timestamp_ms': u'1495854236588'}}
+Sat 27 May 2017 11:04:06 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:04:14 API.py [line:222] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'190386596', u'user_id': 190386596, u'id': 868301107969314816L, u'id_str': u'868301107969314816'}, u'timestamp_ms': u'1495854251084'}}
+Sat 27 May 2017 11:04:21 API.py [line:222] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'190386596', u'user_id': 190386596, u'id': 868139763357949952L, u'id_str': u'868139763357949952'}, u'timestamp_ms': u'1495854257606'}}
+Sat 27 May 2017 11:04:31 API.py [line:222] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'17885562', u'user_id': 17885562, u'id': 826161084683919360L, u'id_str': u'826161084683919360'}, u'timestamp_ms': u'1495854264928'}}
+Sat 27 May 2017 11:04:36 API.py [line:222] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'190386596', u'user_id': 190386596, u'id': 868245915697643521L, u'id_str': u'868245915697643521'}, u'timestamp_ms': u'1495854269071'}}
+Sat 27 May 2017 11:06:34 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out.
+Sat 27 May 2017 11:06:34 API.py [line:533] INFO 200 statuses/filter text finish

@@ -1,0 +1,7 @@
+Sat 27 May 2017 10:58:00 API.py [line:546] INFO 200 statuses/filter text thread 0's token_index 0
+Sat 27 May 2017 10:58:01 API.py [line:546] INFO 200 statuses/filter text thread 1's token_index 0
+Sat 27 May 2017 10:58:01 API.py [line:546] INFO 200 statuses/filter text thread 2's token_index 0
+Sat 27 May 2017 10:58:02 API.py [line:546] INFO 200 statuses/filter text thread 3's token_index 0
+Sat 27 May 2017 10:58:02 API.py [line:546] INFO 200 statuses/filter text thread 4's token_index 0
+Sat 27 May 2017 10:58:03 API.py [line:546] INFO 200 statuses/filter text thread 5's token_index 0
+Sat 27 May 2017 10:58:04 API.py [line:546] INFO 200 statuses/filter text thread 6's token_index 0

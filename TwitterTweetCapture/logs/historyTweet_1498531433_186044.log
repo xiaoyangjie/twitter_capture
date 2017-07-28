@@ -1,0 +1,41 @@
+Tue 27 Jun 2017 10:43:55 API.py [line:357] INFO start.
+Tue 27 Jun 2017 10:43:56 API.py [line:412] INFO thread 0 start.
+Tue 27 Jun 2017 10:43:56 API.py [line:412] INFO thread 1 start.
+Tue 27 Jun 2017 10:43:56 API.py [line:412] INFO thread 2 start.
+Tue 27 Jun 2017 10:43:56 API.py [line:412] INFO thread 3 start.
+Tue 27 Jun 2017 10:43:56 API.py [line:415] INFO thread 0's token_index 172
+Tue 27 Jun 2017 10:43:56 API.py [line:412] INFO thread 4 start.
+Tue 27 Jun 2017 10:43:56 API.py [line:412] INFO thread 5 start.
+Tue 27 Jun 2017 10:43:56 API.py [line:415] INFO thread 1's token_index 102
+Tue 27 Jun 2017 10:43:56 API.py [line:412] INFO thread 6 start.
+Tue 27 Jun 2017 10:43:56 API.py [line:415] INFO thread 2's token_index 387
+Tue 27 Jun 2017 10:43:56 API.py [line:412] INFO thread 7 start.
+Tue 27 Jun 2017 10:43:56 API.py [line:415] INFO thread 3's token_index 387
+Tue 27 Jun 2017 10:43:56 API.py [line:415] INFO thread 4's token_index 190
+Tue 27 Jun 2017 10:43:56 API.py [line:422] INFO user_queue size 199
+Tue 27 Jun 2017 10:43:56 API.py [line:415] INFO thread 5's token_index 64
+Tue 27 Jun 2017 10:43:56 API.py [line:422] INFO user_queue size 198
+Tue 27 Jun 2017 10:43:56 API.py [line:415] INFO thread 6's token_index 329
+Tue 27 Jun 2017 10:43:56 API.py [line:422] INFO user_queue size 197
+Tue 27 Jun 2017 10:43:56 API.py [line:415] INFO thread 7's token_index 206
+Tue 27 Jun 2017 10:43:56 API.py [line:422] INFO user_queue size 196
+Tue 27 Jun 2017 10:43:56 API.py [line:422] INFO user_queue size 195
+Tue 27 Jun 2017 10:43:56 API.py [line:423] INFO start process None oceancitymdnews
+Tue 27 Jun 2017 10:43:56 API.py [line:422] INFO user_queue size 194
+Tue 27 Jun 2017 10:43:56 API.py [line:423] INFO start process None LodiBuzz
+Tue 27 Jun 2017 10:43:56 API.py [line:422] INFO user_queue size 193
+Tue 27 Jun 2017 10:43:56 API.py [line:423] INFO start process None lplbreakingnews
+Tue 27 Jun 2017 10:43:56 API.py [line:422] INFO user_queue size 192
+Tue 27 Jun 2017 10:43:56 API.py [line:423] INFO start process None fayettevillenow
+Tue 27 Jun 2017 10:43:56 API.py [line:423] INFO start process None keywestjournal
+Tue 27 Jun 2017 10:43:56 API.py [line:71] INFO value: None, oceancitymdnews
+Tue 27 Jun 2017 10:43:56 API.py [line:423] INFO start process None CarlaKJohnson
+Tue 27 Jun 2017 10:43:56 API.py [line:71] INFO value: None, LodiBuzz
+Tue 27 Jun 2017 10:43:56 API.py [line:423] INFO start process None edibreakingnews
+Tue 27 Jun 2017 10:43:56 API.py [line:71] INFO value: None, lplbreakingnews
+Tue 27 Jun 2017 10:43:56 API.py [line:423] INFO start process None amarillojournal
+Tue 27 Jun 2017 10:43:56 API.py [line:71] INFO value: None, fayettevillenow
+Tue 27 Jun 2017 10:43:56 API.py [line:71] INFO value: None, keywestjournal
+Tue 27 Jun 2017 10:43:56 API.py [line:71] INFO value: None, CarlaKJohnson
+Tue 27 Jun 2017 10:43:56 API.py [line:71] INFO value: None, edibreakingnews
+Tue 27 Jun 2017 10:43:56 API.py [line:71] INFO value: None, amarillojournal

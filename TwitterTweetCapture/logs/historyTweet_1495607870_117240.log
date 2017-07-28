@@ -1,0 +1,169 @@
+Wed 24 May 2017 14:37:50 API getUserHistory 119608 MainThread [line:356] INFO start.
+Wed 24 May 2017 14:37:50 API _get_user_history 118688 Thread-1 [line:411] INFO thread 0 start.
+Wed 24 May 2017 14:37:50 API _get_user_history 104208 Thread-2 [line:411] INFO thread 1 start.
+Wed 24 May 2017 14:37:50 API _get_user_history 114600 Thread-3 [line:411] INFO thread 2 start.
+Wed 24 May 2017 14:37:50 API _get_user_history 118688 Thread-1 [line:414] INFO thread 0's token_index 341
+Wed 24 May 2017 14:37:50 API _get_user_history 118560 Thread-4 [line:411] INFO thread 3 start.
+Wed 24 May 2017 14:37:50 API _get_user_history 117716 Thread-5 [line:411] INFO thread 4 start.
+Wed 24 May 2017 14:37:50 API _get_user_history 104208 Thread-2 [line:414] INFO thread 1's token_index 66
+Wed 24 May 2017 14:37:50 API _get_user_history 114600 Thread-3 [line:414] INFO thread 2's token_index 81
+Wed 24 May 2017 14:37:50 API _get_user_history 120160 Thread-6 [line:411] INFO thread 5 start.
+Wed 24 May 2017 14:37:50 API _get_user_history 108624 Thread-7 [line:411] INFO thread 6 start.
+Wed 24 May 2017 14:37:50 API _get_user_history 119000 Thread-8 [line:411] INFO thread 7 start.
+Wed 24 May 2017 14:37:50 API _get_user_history 118688 Thread-1 [line:421] INFO user_queue size 199
+Wed 24 May 2017 14:37:50 API _get_user_history 118560 Thread-4 [line:414] INFO thread 3's token_index 266
+Wed 24 May 2017 14:37:50 API _get_user_history 117716 Thread-5 [line:414] INFO thread 4's token_index 201
+Wed 24 May 2017 14:37:50 API _get_user_history 104208 Thread-2 [line:421] INFO user_queue size 198
+Wed 24 May 2017 14:37:50 API _get_user_history 114600 Thread-3 [line:421] INFO user_queue size 197
+Wed 24 May 2017 14:37:50 API _get_user_history 120160 Thread-6 [line:414] INFO thread 5's token_index 487
+Wed 24 May 2017 14:37:50 API _get_user_history 108624 Thread-7 [line:414] INFO thread 6's token_index 167
+Wed 24 May 2017 14:37:50 API _get_user_history 119000 Thread-8 [line:414] INFO thread 7's token_index 283
+Wed 24 May 2017 14:37:50 API _get_user_history 118688 Thread-1 [line:422] INFO start process None AimeeCoogan
+Wed 24 May 2017 14:37:50 API _get_user_history 118560 Thread-4 [line:421] INFO user_queue size 196
+Wed 24 May 2017 14:37:50 API _get_user_history 104208 Thread-2 [line:422] INFO start process None conordudz
+Wed 24 May 2017 14:37:50 API _get_user_history 117716 Thread-5 [line:421] INFO user_queue size 195
+Wed 24 May 2017 14:37:50 API _get_user_history 114600 Thread-3 [line:422] INFO start process None sbalbir705
+Wed 24 May 2017 14:37:50 API _get_user_history 120160 Thread-6 [line:421] INFO user_queue size 194
+Wed 24 May 2017 14:37:50 API _get_user_history 108624 Thread-7 [line:421] INFO user_queue size 193
+Wed 24 May 2017 14:37:50 API _get_user_history 119000 Thread-8 [line:421] INFO user_queue size 192
+Wed 24 May 2017 14:37:50 API rest_user_timeline 118688 Thread-1 [line:71] INFO value: None, AimeeCoogan
+Wed 24 May 2017 14:37:50 API _get_user_history 118560 Thread-4 [line:422] INFO start process None Sharisse_W
+Wed 24 May 2017 14:37:50 API rest_user_timeline 104208 Thread-2 [line:71] INFO value: None, conordudz
+Wed 24 May 2017 14:37:50 API _get_user_history 117716 Thread-5 [line:422] INFO start process None ekantipur
+Wed 24 May 2017 14:37:50 API rest_user_timeline 114600 Thread-3 [line:71] INFO value: None, sbalbir705
+Wed 24 May 2017 14:37:50 API _get_user_history 120160 Thread-6 [line:422] INFO start process None letitbehowitis
+Wed 24 May 2017 14:37:50 API _get_user_history 108624 Thread-7 [line:422] INFO start process None nagan53
+Wed 24 May 2017 14:37:50 API _get_user_history 119000 Thread-8 [line:422] INFO start process None KayBlackledge88
+Wed 24 May 2017 14:37:50 API rest_user_timeline 118560 Thread-4 [line:71] INFO value: None, Sharisse_W
+Wed 24 May 2017 14:37:50 API rest_user_timeline 117716 Thread-5 [line:71] INFO value: None, ekantipur
+Wed 24 May 2017 14:37:50 API rest_user_timeline 120160 Thread-6 [line:71] INFO value: None, letitbehowitis
+Wed 24 May 2017 14:37:50 API rest_user_timeline 108624 Thread-7 [line:71] INFO value: None, nagan53
+Wed 24 May 2017 14:37:50 API rest_user_timeline 119000 Thread-8 [line:71] INFO value: None, KayBlackledge88
+Wed 24 May 2017 14:37:50 connectionpool _new_conn 118688 Thread-1 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:50 connectionpool _new_conn 104208 Thread-2 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:50 connectionpool _new_conn 114600 Thread-3 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:50 connectionpool _new_conn 118560 Thread-4 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:50 connectionpool _new_conn 117716 Thread-5 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:50 connectionpool _new_conn 108624 Thread-7 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:50 connectionpool _new_conn 120160 Thread-6 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:50 connectionpool _new_conn 119000 Thread-8 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:52 TwitterError __init__ 119000 Thread-8 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:52 API rest_user_timeline 119000 Thread-8 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:52 TwitterError __init__ 119000 Thread-8 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:52 API _get_user_history 119000 Thread-8 [line:456] WARNING None KayBlackledge88 is not alive.
+Wed 24 May 2017 14:37:52 API _get_user_history 119000 Thread-8 [line:421] INFO user_queue size 191
+Wed 24 May 2017 14:37:52 API _get_user_history 119000 Thread-8 [line:422] INFO start process None odsinada_may
+Wed 24 May 2017 14:37:52 API rest_user_timeline 119000 Thread-8 [line:71] INFO value: None, odsinada_may
+Wed 24 May 2017 14:37:52 connectionpool _new_conn 119000 Thread-8 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:52 TwitterError __init__ 117716 Thread-5 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:52 API rest_user_timeline 117716 Thread-5 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:52 TwitterError __init__ 117716 Thread-5 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:52 API _get_user_history 117716 Thread-5 [line:451] WARNING None ekantipuris protected.
+Wed 24 May 2017 14:37:52 API _get_user_history 117716 Thread-5 [line:421] INFO user_queue size 190
+Wed 24 May 2017 14:37:52 API _get_user_history 117716 Thread-5 [line:422] INFO start process None KelseyLambMusic
+Wed 24 May 2017 14:37:52 API rest_user_timeline 117716 Thread-5 [line:71] INFO value: None, KelseyLambMusic
+Wed 24 May 2017 14:37:52 connectionpool _new_conn 117716 Thread-5 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:52 TwitterError __init__ 108624 Thread-7 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:52 API rest_user_timeline 108624 Thread-7 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:52 TwitterError __init__ 108624 Thread-7 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:52 API _get_user_history 108624 Thread-7 [line:451] WARNING None nagan53is protected.
+Wed 24 May 2017 14:37:52 API _get_user_history 108624 Thread-7 [line:421] INFO user_queue size 189
+Wed 24 May 2017 14:37:52 API _get_user_history 108624 Thread-7 [line:422] INFO start process None HansfordsMCR
+Wed 24 May 2017 14:37:52 API rest_user_timeline 108624 Thread-7 [line:71] INFO value: None, HansfordsMCR
+Wed 24 May 2017 14:37:52 connectionpool _new_conn 108624 Thread-7 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:52 TwitterError __init__ 118560 Thread-4 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:52 API rest_user_timeline 118560 Thread-4 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:52 TwitterError __init__ 118560 Thread-4 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:52 API _get_user_history 118560 Thread-4 [line:456] WARNING None Sharisse_W is not alive.
+Wed 24 May 2017 14:37:52 API _get_user_history 118560 Thread-4 [line:421] INFO user_queue size 188
+Wed 24 May 2017 14:37:52 API _get_user_history 118560 Thread-4 [line:422] INFO start process None OneTweetAYear
+Wed 24 May 2017 14:37:52 API rest_user_timeline 118560 Thread-4 [line:71] INFO value: None, OneTweetAYear
+Wed 24 May 2017 14:37:52 connectionpool _new_conn 118560 Thread-4 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:52 TwitterError __init__ 120160 Thread-6 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:52 API rest_user_timeline 120160 Thread-6 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:52 TwitterError __init__ 120160 Thread-6 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:52 API _get_user_history 120160 Thread-6 [line:456] WARNING None letitbehowitis is not alive.
+Wed 24 May 2017 14:37:52 API _get_user_history 120160 Thread-6 [line:421] INFO user_queue size 187
+Wed 24 May 2017 14:37:52 API _get_user_history 120160 Thread-6 [line:422] INFO start process None 19ian38
+Wed 24 May 2017 14:37:52 API rest_user_timeline 120160 Thread-6 [line:71] INFO value: None, 19ian38
+Wed 24 May 2017 14:37:52 connectionpool _new_conn 120160 Thread-6 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:53 TwitterError __init__ 118688 Thread-1 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:53 API rest_user_timeline 118688 Thread-1 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:53 TwitterError __init__ 118688 Thread-1 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:53 API _get_user_history 118688 Thread-1 [line:456] WARNING None AimeeCoogan is not alive.
+Wed 24 May 2017 14:37:53 API _get_user_history 118688 Thread-1 [line:421] INFO user_queue size 186
+Wed 24 May 2017 14:37:53 API _get_user_history 118688 Thread-1 [line:422] INFO start process None LynnlordyLynn
+Wed 24 May 2017 14:37:53 API rest_user_timeline 118688 Thread-1 [line:71] INFO value: None, LynnlordyLynn
+Wed 24 May 2017 14:37:53 connectionpool _new_conn 118688 Thread-1 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:53 TwitterError __init__ 104208 Thread-2 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:53 API rest_user_timeline 104208 Thread-2 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:53 TwitterError __init__ 104208 Thread-2 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:53 API _get_user_history 104208 Thread-2 [line:451] WARNING None conordudzis protected.
+Wed 24 May 2017 14:37:53 API _get_user_history 104208 Thread-2 [line:421] INFO user_queue size 185
+Wed 24 May 2017 14:37:53 API _get_user_history 104208 Thread-2 [line:422] INFO start process None toludowu
+Wed 24 May 2017 14:37:53 API rest_user_timeline 104208 Thread-2 [line:71] INFO value: None, toludowu
+Wed 24 May 2017 14:37:53 connectionpool _new_conn 104208 Thread-2 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:53 TwitterError __init__ 114600 Thread-3 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:53 API rest_user_timeline 114600 Thread-3 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:53 TwitterError __init__ 114600 Thread-3 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:53 API _get_user_history 114600 Thread-3 [line:451] WARNING None sbalbir705is protected.
+Wed 24 May 2017 14:37:53 API _get_user_history 114600 Thread-3 [line:421] INFO user_queue size 184
+Wed 24 May 2017 14:37:53 API _get_user_history 114600 Thread-3 [line:422] INFO start process None narayan12337
+Wed 24 May 2017 14:37:53 API rest_user_timeline 114600 Thread-3 [line:71] INFO value: None, narayan12337
+Wed 24 May 2017 14:37:53 connectionpool _new_conn 114600 Thread-3 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:55 API _get_user_history 104208 Thread-2 [line:497] INFO None toludowu total insert 0 tweets. duplicate 0 tweets.
+Wed 24 May 2017 14:37:55 API _get_user_history 104208 Thread-2 [line:421] INFO user_queue size 183
+Wed 24 May 2017 14:37:55 API _get_user_history 104208 Thread-2 [line:422] INFO start process None sarahje38339932
+Wed 24 May 2017 14:37:55 API rest_user_timeline 104208 Thread-2 [line:71] INFO value: None, sarahje38339932
+Wed 24 May 2017 14:37:55 connectionpool _new_conn 104208 Thread-2 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:56 TwitterError __init__ 119000 Thread-8 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:56 API rest_user_timeline 119000 Thread-8 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:56 TwitterError __init__ 119000 Thread-8 [line:33] INFO Status code 404: Twitter request failed
+Wed 24 May 2017 14:37:56 API _get_user_history 119000 Thread-8 [line:456] WARNING None odsinada_may is not alive.
+Wed 24 May 2017 14:37:56 API _get_user_history 119000 Thread-8 [line:421] INFO user_queue size 182
+Wed 24 May 2017 14:37:56 API _get_user_history 119000 Thread-8 [line:422] INFO start process None laraBal48994496
+Wed 24 May 2017 14:37:56 API rest_user_timeline 119000 Thread-8 [line:71] INFO value: None, laraBal48994496
+Wed 24 May 2017 14:37:56 connectionpool _new_conn 119000 Thread-8 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:58 TwitterError __init__ 117716 Thread-5 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:58 API rest_user_timeline 117716 Thread-5 [line:105] ERROR Twitter request failed
+Wed 24 May 2017 14:37:58 TwitterError __init__ 117716 Thread-5 [line:33] INFO Status code 401: Twitter request failed
+Wed 24 May 2017 14:37:58 API _get_user_history 117716 Thread-5 [line:451] WARNING None KelseyLambMusicis protected.
+Wed 24 May 2017 14:37:58 API _get_user_history 117716 Thread-5 [line:421] INFO user_queue size 181
+Wed 24 May 2017 14:37:58 API _get_user_history 117716 Thread-5 [line:422] INFO start process None daughterofpam
+Wed 24 May 2017 14:37:58 API rest_user_timeline 117716 Thread-5 [line:71] INFO value: None, daughterofpam
+Wed 24 May 2017 14:37:58 connectionpool _new_conn 117716 Thread-5 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:58 API _get_user_history 120160 Thread-6 [line:497] INFO None 19ian38 total insert 0 tweets. duplicate 0 tweets.
+Wed 24 May 2017 14:37:58 API _get_user_history 120160 Thread-6 [line:421] INFO user_queue size 180
+Wed 24 May 2017 14:37:58 API _get_user_history 120160 Thread-6 [line:422] INFO start process None Tricobliss
+Wed 24 May 2017 14:37:58 API rest_user_timeline 120160 Thread-6 [line:71] INFO value: None, Tricobliss
+Wed 24 May 2017 14:37:58 connectionpool _new_conn 120160 Thread-6 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:58 API _get_user_history 104208 Thread-2 [line:497] INFO None sarahje38339932 total insert 0 tweets. duplicate 0 tweets.
+Wed 24 May 2017 14:37:58 API _get_user_history 104208 Thread-2 [line:421] INFO user_queue size 179
+Wed 24 May 2017 14:37:58 API _get_user_history 104208 Thread-2 [line:422] INFO start process None vivian0308tw
+Wed 24 May 2017 14:37:58 API rest_user_timeline 104208 Thread-2 [line:71] INFO value: None, vivian0308tw
+Wed 24 May 2017 14:37:58 connectionpool _new_conn 104208 Thread-2 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:58 API _get_user_history 118560 Thread-4 [line:497] INFO None OneTweetAYear total insert 0 tweets. duplicate 0 tweets.
+Wed 24 May 2017 14:37:58 API _get_user_history 118560 Thread-4 [line:421] INFO user_queue size 178
+Wed 24 May 2017 14:37:58 API _get_user_history 118560 Thread-4 [line:422] INFO start process None GXPAntenna
+Wed 24 May 2017 14:37:58 API rest_user_timeline 118560 Thread-4 [line:71] INFO value: None, GXPAntenna
+Wed 24 May 2017 14:37:58 connectionpool _new_conn 118560 Thread-4 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:58 API _get_user_history 118688 Thread-1 [line:497] INFO None LynnlordyLynn total insert 0 tweets. duplicate 0 tweets.
+Wed 24 May 2017 14:37:58 API _get_user_history 118688 Thread-1 [line:421] INFO user_queue size 177
+Wed 24 May 2017 14:37:58 API _get_user_history 118688 Thread-1 [line:422] INFO start process None koonii100
+Wed 24 May 2017 14:37:58 API rest_user_timeline 118688 Thread-1 [line:71] INFO value: None, koonii100
+Wed 24 May 2017 14:37:58 connectionpool _new_conn 118688 Thread-1 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:59 API _get_user_history 114600 Thread-3 [line:497] INFO None narayan12337 total insert 0 tweets. duplicate 0 tweets.
+Wed 24 May 2017 14:37:59 API _get_user_history 114600 Thread-3 [line:421] INFO user_queue size 176
+Wed 24 May 2017 14:37:59 API _get_user_history 114600 Thread-3 [line:422] INFO start process None fransis08
+Wed 24 May 2017 14:37:59 API rest_user_timeline 114600 Thread-3 [line:71] INFO value: None, fransis08
+Wed 24 May 2017 14:37:59 connectionpool _new_conn 114600 Thread-3 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:37:59 API _get_user_history 117716 Thread-5 [line:497] INFO None daughterofpam total insert 0 tweets. duplicate 0 tweets.
+Wed 24 May 2017 14:37:59 API _get_user_history 117716 Thread-5 [line:421] INFO user_queue size 175
+Wed 24 May 2017 14:37:59 API _get_user_history 117716 Thread-5 [line:422] INFO start process None AdeSmith007
+Wed 24 May 2017 14:37:59 API rest_user_timeline 117716 Thread-5 [line:71] INFO value: None, AdeSmith007
+Wed 24 May 2017 14:37:59 connectionpool _new_conn 117716 Thread-5 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com
+Wed 24 May 2017 14:38:00 API _get_user_history 120160 Thread-6 [line:497] INFO None Tricobliss total insert 0 tweets. duplicate 0 tweets.
+Wed 24 May 2017 14:38:00 API _get_user_history 120160 Thread-6 [line:421] INFO user_queue size 174
+Wed 24 May 2017 14:38:00 API _get_user_history 120160 Thread-6 [line:422] INFO start process None marion_barrie
+Wed 24 May 2017 14:38:00 API rest_user_timeline 120160 Thread-6 [line:71] INFO value: None, marion_barrie
+Wed 24 May 2017 14:38:00 connectionpool _new_conn 120160 Thread-6 [line:735] INFO Starting new HTTPS connection (1): api.twitter.com

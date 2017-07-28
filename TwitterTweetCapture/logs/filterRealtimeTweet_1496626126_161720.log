@@ -1,0 +1,45 @@
+Mon 05 Jun 2017 09:28:50 API.py [line:603] INFO start
+Mon 05 Jun 2017 09:28:50 API.py [line:635] INFO thread 0 start.
+Mon 05 Jun 2017 09:28:50 API.py [line:638] INFO thread 0's token_index 498
+Mon 05 Jun 2017 09:28:50 API.py [line:639] INFO {u'access_token': u'727073334697988096-MSAiAgsiuxBJMXS41HAJdEnN1iQVGfK', u'consumer_secret': u'LivsS9DTKh4Xmfo2vOG2tpKmrj8lxsYqiDgZLamPBJahFqnjUo', u'consumer_key': u'fO4lXV6LLz5e1Ew6uRDtvXpIQ', u'access_token_secret': u'EWz0np2RNQhpXfQh18CSnpXwzRv0sAxE0kNs4dFIA9aty'}
+Mon 05 Jun 2017 09:28:50 API.py [line:640] INFO ['kill,killed,bomb']
+Mon 05 Jun 2017 09:28:50 API.py [line:641] INFO ['192.168.1.148:8111']
+Mon 05 Jun 2017 09:28:54 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:29:15 API.py [line:655] INFO 871539272775376897
+Mon 05 Jun 2017 09:29:15 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:29:36 API.py [line:655] INFO 871539274201546752
+Mon 05 Jun 2017 09:29:36 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:29:57 API.py [line:655] INFO 871539274176372736
+Mon 05 Jun 2017 09:29:57 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:30:18 API.py [line:655] INFO 871539274172084225
+Mon 05 Jun 2017 09:30:18 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:30:39 API.py [line:655] INFO 871539274188849152
+Mon 05 Jun 2017 09:30:39 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:31:00 API.py [line:655] INFO 871539274176372739
+Mon 05 Jun 2017 09:31:00 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:31:21 API.py [line:655] INFO 871539274365009921
+Mon 05 Jun 2017 09:31:21 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:31:42 API.py [line:655] INFO 871539274327273472
+Mon 05 Jun 2017 09:31:42 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:32:03 API.py [line:655] INFO 871539274704973833
+Mon 05 Jun 2017 09:32:03 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:32:24 API.py [line:655] INFO 871539274537209856
+Mon 05 Jun 2017 09:32:24 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:32:45 API.py [line:655] INFO 871539274339852288
+Mon 05 Jun 2017 09:32:45 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:33:06 API.py [line:655] INFO 871539274184654848
+Mon 05 Jun 2017 09:33:06 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:33:27 API.py [line:655] INFO 871539274964848641
+Mon 05 Jun 2017 09:33:27 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:33:48 API.py [line:655] INFO 871539275421990915
+Mon 05 Jun 2017 09:33:48 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:34:09 API.py [line:655] INFO 871539275434647553
+Mon 05 Jun 2017 09:34:09 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:34:30 API.py [line:655] INFO 871539275409444864
+Mon 05 Jun 2017 09:34:30 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:34:51 API.py [line:655] INFO 871539274704760832
+Mon 05 Jun 2017 09:34:51 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:35:12 API.py [line:655] INFO 871539275430363137
+Mon 05 Jun 2017 09:35:12 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46
+Mon 05 Jun 2017 09:35:33 API.py [line:655] INFO 871539275417894912
+Mon 05 Jun 2017 09:35:33 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46

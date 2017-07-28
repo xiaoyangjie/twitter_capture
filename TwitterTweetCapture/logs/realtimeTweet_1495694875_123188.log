@@ -1,0 +1,72 @@
+Thu 25 May 2017 14:48:06 API.py[line:508] (levelname)s start
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 0 start.
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 1 start.
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 2 start.
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 3 start.
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 0's token_index 99
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 1's token_index 36
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 4 start.
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 5 start.
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 2's token_index 32
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 6 start.
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 3's token_index 491
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 7 start.
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 8 start.
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 9 start.
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 4's token_index 236
+Thu 25 May 2017 14:48:11 API.py[line:543] (levelname)s thread 10 start.
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 5's token_index 325
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 6's token_index 185
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 7's token_index 280
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 8's token_index 319
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 9's token_index 116
+Thu 25 May 2017 14:48:11 API.py[line:546] (levelname)s thread 10's token_index 31
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:14 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:20 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:20 API.py[line:207] (levelname)s ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:20 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:20 API.py[line:207] (levelname)s ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:20 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:20 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:20 API.py[line:207] (levelname)s ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:20 API.py[line:207] (levelname)s ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:22 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.ConnectionError'> ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 14:48:22 API.py[line:207] (levelname)s ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 14:48:26 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:26 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:26 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:26 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:27 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:33 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.ConnectionError'> ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 14:48:33 API.py[line:207] (levelname)s ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 14:48:35 API.py[line:222] (levelname)s {u'delete': {u'status': {u'user_id_str': u'592946538', u'user_id': 592946538, u'id': 867516054792175617L, u'id_str': u'867516054792175617'}, u'timestamp_ms': u'1495694907154'}}
+Thu 25 May 2017 14:48:37 API.py[line:222] (levelname)s {u'delete': {u'status': {u'user_id_str': u'92994537', u'user_id': 92994537, u'id': 867633390803144704L, u'id_str': u'867633390803144704'}, u'timestamp_ms': u'1495694910131'}}
+Thu 25 May 2017 14:48:38 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:42 API.py[line:222] (levelname)s {u'delete': {u'status': {u'user_id_str': u'4705502727', u'user_id': 4705502727L, u'id': 866868854269595648L, u'id_str': u'866868854269595648'}, u'timestamp_ms': u'1495694919064'}}
+Thu 25 May 2017 14:48:43 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:43 API.py[line:207] (levelname)s ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:47 API.py[line:222] (levelname)s {u'delete': {u'status': {u'user_id_str': u'395218906', u'user_id': 395218906, u'id': 867633463633096704L, u'id_str': u'867633463633096704'}, u'timestamp_ms': u'1495694914955'}}
+Thu 25 May 2017 14:48:48 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:48:53 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:53 API.py[line:207] (levelname)s ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:48:58 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:49:01 API.py[line:222] (levelname)s {u'delete': {u'status': {u'user_id_str': u'127562269', u'user_id': 127562269, u'id': 791981291306618881L, u'id_str': u'791981291306618881'}, u'timestamp_ms': u'1495694921926'}}
+Thu 25 May 2017 14:49:03 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:49:03 API.py[line:207] (levelname)s ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:49:08 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:49:13 TwitterError.py[line:21] (levelname)s <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:49:13 API.py[line:207] (levelname)s ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 14:49:19 connectionpool.py[line:735] (levelname)s Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 14:49:19 API.py[line:222] (levelname)s {u'delete': {u'status': {u'user_id_str': u'290437167', u'user_id': 290437167, u'id': 867629393975287808L, u'id_str': u'867629393975287808'}, u'timestamp_ms': u'1495694951242'}}
+Thu 25 May 2017 14:49:47 API.py[line:222] (levelname)s {u'delete': {u'status': {u'user_id_str': u'200918966', u'user_id': 200918966, u'id': 867633517055721472L, u'id_str': u'867633517055721472'}, u'timestamp_ms': u'1495694928517'}}
+Thu 25 May 2017 14:50:02 API.py[line:222] (levelname)s {u'delete': {u'status': {u'user_id_str': u'148303071', u'user_id': 148303071, u'id': 867633711172505600L, u'id_str': u'867633711172505600'}, u'timestamp_ms': u'1495694985833'}}

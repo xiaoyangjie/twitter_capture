@@ -1,0 +1,41 @@
+Sat 10 Jun 2017 15:05:20 API.py [line:356] INFO start.
+Sat 10 Jun 2017 15:05:22 API.py [line:411] INFO thread 0 start.
+Sat 10 Jun 2017 15:05:22 API.py [line:411] INFO thread 1 start.
+Sat 10 Jun 2017 15:05:22 API.py [line:411] INFO thread 2 start.
+Sat 10 Jun 2017 15:05:22 API.py [line:411] INFO thread 3 start.
+Sat 10 Jun 2017 15:05:22 API.py [line:411] INFO thread 4 start.
+Sat 10 Jun 2017 15:05:22 API.py [line:414] INFO thread 0's token_index 76
+Sat 10 Jun 2017 15:05:22 API.py [line:411] INFO thread 5 start.
+Sat 10 Jun 2017 15:05:22 API.py [line:414] INFO thread 1's token_index 51
+Sat 10 Jun 2017 15:05:22 API.py [line:411] INFO thread 6 start.
+Sat 10 Jun 2017 15:05:22 API.py [line:414] INFO thread 2's token_index 35
+Sat 10 Jun 2017 15:05:22 API.py [line:411] INFO thread 7 start.
+Sat 10 Jun 2017 15:05:22 API.py [line:414] INFO thread 3's token_index 13
+Sat 10 Jun 2017 15:05:22 API.py [line:414] INFO thread 4's token_index 215
+Sat 10 Jun 2017 15:05:22 API.py [line:421] INFO user_queue size 199
+Sat 10 Jun 2017 15:05:22 API.py [line:414] INFO thread 5's token_index 90
+Sat 10 Jun 2017 15:05:22 API.py [line:421] INFO user_queue size 198
+Sat 10 Jun 2017 15:05:22 API.py [line:414] INFO thread 6's token_index 314
+Sat 10 Jun 2017 15:05:22 API.py [line:421] INFO user_queue size 197
+Sat 10 Jun 2017 15:05:22 API.py [line:414] INFO thread 7's token_index 492
+Sat 10 Jun 2017 15:05:22 API.py [line:421] INFO user_queue size 196
+Sat 10 Jun 2017 15:05:22 API.py [line:421] INFO user_queue size 195
+Sat 10 Jun 2017 15:05:22 API.py [line:422] INFO start process 280661955 TamaraJanelle
+Sat 10 Jun 2017 15:05:22 API.py [line:421] INFO user_queue size 194
+Sat 10 Jun 2017 15:05:22 API.py [line:422] INFO start process 2544102668 FrostyBirding
+Sat 10 Jun 2017 15:05:22 API.py [line:421] INFO user_queue size 193
+Sat 10 Jun 2017 15:05:22 API.py [line:422] INFO start process 4144840533 BAWildGardener
+Sat 10 Jun 2017 15:05:22 API.py [line:421] INFO user_queue size 192
+Sat 10 Jun 2017 15:05:22 API.py [line:422] INFO start process 537588875 Astro_Maker
+Sat 10 Jun 2017 15:05:22 API.py [line:422] INFO start process 23693080 IanLevine
+Sat 10 Jun 2017 15:05:22 API.py [line:71] INFO value: 280661955, TamaraJanelle
+Sat 10 Jun 2017 15:05:22 API.py [line:422] INFO start process 555806993 nwleicsbirds
+Sat 10 Jun 2017 15:05:22 API.py [line:71] INFO value: 2544102668, FrostyBirding
+Sat 10 Jun 2017 15:05:22 API.py [line:422] INFO start process 64554329 HollyWheatcroft
+Sat 10 Jun 2017 15:05:22 API.py [line:71] INFO value: 4144840533, BAWildGardener
+Sat 10 Jun 2017 15:05:22 API.py [line:422] INFO start process 3781667483 SeanCurrie97
+Sat 10 Jun 2017 15:05:22 API.py [line:71] INFO value: 537588875, Astro_Maker
+Sat 10 Jun 2017 15:05:22 API.py [line:71] INFO value: 23693080, IanLevine
+Sat 10 Jun 2017 15:05:22 API.py [line:71] INFO value: 555806993, nwleicsbirds
+Sat 10 Jun 2017 15:05:22 API.py [line:71] INFO value: 64554329, HollyWheatcroft
+Sat 10 Jun 2017 15:05:22 API.py [line:71] INFO value: 3781667483, SeanCurrie97

@@ -1,0 +1,869 @@
+Thu 15 Jun 2017 15:42:53 API.py [line:356] INFO start.
+Thu 15 Jun 2017 15:42:53 API.py [line:411] INFO thread 0 start.
+Thu 15 Jun 2017 15:42:53 API.py [line:411] INFO thread 1 start.
+Thu 15 Jun 2017 15:42:53 API.py [line:411] INFO thread 2 start.
+Thu 15 Jun 2017 15:42:53 API.py [line:414] INFO thread 0's token_index 360
+Thu 15 Jun 2017 15:42:53 API.py [line:411] INFO thread 3 start.
+Thu 15 Jun 2017 15:42:53 API.py [line:414] INFO thread 1's token_index 14
+Thu 15 Jun 2017 15:42:53 API.py [line:411] INFO thread 4 start.
+Thu 15 Jun 2017 15:42:53 API.py [line:411] INFO thread 5 start.
+Thu 15 Jun 2017 15:42:53 API.py [line:414] INFO thread 2's token_index 486
+Thu 15 Jun 2017 15:42:53 API.py [line:411] INFO thread 6 start.
+Thu 15 Jun 2017 15:42:53 API.py [line:421] INFO user_queue size 199
+Thu 15 Jun 2017 15:42:53 API.py [line:411] INFO thread 7 start.
+Thu 15 Jun 2017 15:42:53 API.py [line:414] INFO thread 3's token_index 173
+Thu 15 Jun 2017 15:42:53 API.py [line:414] INFO thread 4's token_index 375
+Thu 15 Jun 2017 15:42:53 API.py [line:421] INFO user_queue size 198
+Thu 15 Jun 2017 15:42:53 API.py [line:414] INFO thread 5's token_index 207
+Thu 15 Jun 2017 15:42:53 API.py [line:421] INFO user_queue size 197
+Thu 15 Jun 2017 15:42:53 API.py [line:414] INFO thread 6's token_index 229
+Thu 15 Jun 2017 15:42:53 API.py [line:422] INFO start process None the100
+Thu 15 Jun 2017 15:42:53 API.py [line:414] INFO thread 7's token_index 251
+Thu 15 Jun 2017 15:42:53 API.py [line:421] INFO user_queue size 196
+Thu 15 Jun 2017 15:42:53 API.py [line:421] INFO user_queue size 195
+Thu 15 Jun 2017 15:42:53 API.py [line:422] INFO start process None WaterlooRoadTV
+Thu 15 Jun 2017 15:42:53 API.py [line:421] INFO user_queue size 194
+Thu 15 Jun 2017 15:42:53 API.py [line:422] INFO start process None HowlingMadMo
+Thu 15 Jun 2017 15:42:53 API.py [line:421] INFO user_queue size 193
+Thu 15 Jun 2017 15:42:53 API.py [line:71] INFO value: None, the100
+Thu 15 Jun 2017 15:42:53 API.py [line:421] INFO user_queue size 192
+Thu 15 Jun 2017 15:42:53 API.py [line:422] INFO start process None UKinLatvia
+Thu 15 Jun 2017 15:42:53 API.py [line:422] INFO start process None StuartTorevell
+Thu 15 Jun 2017 15:42:53 API.py [line:71] INFO value: None, WaterlooRoadTV
+Thu 15 Jun 2017 15:42:53 API.py [line:422] INFO start process None BakeOffBanter
+Thu 15 Jun 2017 15:42:53 API.py [line:71] INFO value: None, HowlingMadMo
+Thu 15 Jun 2017 15:42:53 API.py [line:422] INFO start process None sarahjaynedunn
+Thu 15 Jun 2017 15:42:53 API.py [line:422] INFO start process None ClicksClan
+Thu 15 Jun 2017 15:42:53 API.py [line:71] INFO value: None, UKinLatvia
+Thu 15 Jun 2017 15:42:53 API.py [line:71] INFO value: None, StuartTorevell
+Thu 15 Jun 2017 15:42:53 API.py [line:71] INFO value: None, BakeOffBanter
+Thu 15 Jun 2017 15:42:53 API.py [line:71] INFO value: None, sarahjaynedunn
+Thu 15 Jun 2017 15:42:53 API.py [line:71] INFO value: None, ClicksClan
+Thu 15 Jun 2017 15:43:06 API.py [line:505] INFO None BakeOffBanter total insert 147 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:06 API.py [line:421] INFO user_queue size 191
+Thu 15 Jun 2017 15:43:06 API.py [line:422] INFO start process None PaulOGradyShow
+Thu 15 Jun 2017 15:43:06 API.py [line:71] INFO value: None, PaulOGradyShow
+Thu 15 Jun 2017 15:43:16 API.py [line:505] INFO None ClicksClan total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:16 API.py [line:421] INFO user_queue size 190
+Thu 15 Jun 2017 15:43:16 API.py [line:422] INFO start process None latvia_aa0170
+Thu 15 Jun 2017 15:43:16 API.py [line:71] INFO value: None, latvia_aa0170
+Thu 15 Jun 2017 15:43:16 API.py [line:505] INFO None UKinLatvia total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:16 API.py [line:421] INFO user_queue size 189
+Thu 15 Jun 2017 15:43:16 API.py [line:422] INFO start process None sarah_eliza2
+Thu 15 Jun 2017 15:43:16 API.py [line:71] INFO value: None, sarah_eliza2
+Thu 15 Jun 2017 15:43:18 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:43:18 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:43:18 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:43:18 API.py [line:451] WARNING None latvia_aa0170is protected.
+Thu 15 Jun 2017 15:43:18 API.py [line:421] INFO user_queue size 188
+Thu 15 Jun 2017 15:43:18 API.py [line:422] INFO start process None BillJGregory
+Thu 15 Jun 2017 15:43:18 API.py [line:71] INFO value: None, BillJGregory
+Thu 15 Jun 2017 15:43:21 API.py [line:505] INFO None sarahjaynedunn total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:21 API.py [line:421] INFO user_queue size 187
+Thu 15 Jun 2017 15:43:21 API.py [line:422] INFO start process None 22AmyRose
+Thu 15 Jun 2017 15:43:21 API.py [line:71] INFO value: None, 22AmyRose
+Thu 15 Jun 2017 15:43:21 API.py [line:505] INFO None HowlingMadMo total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:21 API.py [line:421] INFO user_queue size 186
+Thu 15 Jun 2017 15:43:21 API.py [line:422] INFO start process None VpnRouters
+Thu 15 Jun 2017 15:43:21 API.py [line:71] INFO value: None, VpnRouters
+Thu 15 Jun 2017 15:43:21 API.py [line:505] INFO None WaterlooRoadTV total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:21 API.py [line:421] INFO user_queue size 185
+Thu 15 Jun 2017 15:43:21 API.py [line:422] INFO start process None GarethEEvans
+Thu 15 Jun 2017 15:43:21 API.py [line:71] INFO value: None, GarethEEvans
+Thu 15 Jun 2017 15:43:21 API.py [line:505] INFO None StuartTorevell total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:21 API.py [line:421] INFO user_queue size 184
+Thu 15 Jun 2017 15:43:21 API.py [line:422] INFO start process None dukeofbeeston
+Thu 15 Jun 2017 15:43:21 API.py [line:71] INFO value: None, dukeofbeeston
+Thu 15 Jun 2017 15:43:21 API.py [line:505] INFO None the100 total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:21 API.py [line:421] INFO user_queue size 183
+Thu 15 Jun 2017 15:43:21 API.py [line:422] INFO start process None JonTrevor
+Thu 15 Jun 2017 15:43:21 API.py [line:71] INFO value: None, JonTrevor
+Thu 15 Jun 2017 15:43:27 TwitterError.py [line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 15 Jun 2017 15:43:27 TwitterError.py [line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 15 Jun 2017 15:43:27 TwitterError.py [line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 15 Jun 2017 15:43:27 TwitterError.py [line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 15 Jun 2017 15:43:27 TwitterError.py [line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 15 Jun 2017 15:43:27 TwitterError.py [line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 15 Jun 2017 15:43:33 API.py [line:505] INFO None PaulOGradyShow total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:33 API.py [line:421] INFO user_queue size 182
+Thu 15 Jun 2017 15:43:33 API.py [line:422] INFO start process None tptRewire
+Thu 15 Jun 2017 15:43:33 API.py [line:71] INFO value: None, tptRewire
+Thu 15 Jun 2017 15:43:36 API.py [line:505] INFO None BillJGregory total insert 297 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:36 API.py [line:421] INFO user_queue size 181
+Thu 15 Jun 2017 15:43:36 API.py [line:422] INFO start process None BMSonTV
+Thu 15 Jun 2017 15:43:36 API.py [line:71] INFO value: None, BMSonTV
+Thu 15 Jun 2017 15:43:36 API.py [line:505] INFO None tptRewire total insert 0 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:36 API.py [line:421] INFO user_queue size 180
+Thu 15 Jun 2017 15:43:36 API.py [line:422] INFO start process None CamelStu
+Thu 15 Jun 2017 15:43:36 API.py [line:71] INFO value: None, CamelStu
+Thu 15 Jun 2017 15:43:39 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:43:39 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:43:39 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:43:39 API.py [line:460] WARNING None BMSonTV is not alive.
+Thu 15 Jun 2017 15:43:39 API.py [line:421] INFO user_queue size 179
+Thu 15 Jun 2017 15:43:39 API.py [line:422] INFO start process None EugeneOseiUK
+Thu 15 Jun 2017 15:43:39 API.py [line:71] INFO value: None, EugeneOseiUK
+Thu 15 Jun 2017 15:43:44 API.py [line:505] INFO None sarah_eliza2 total insert 372 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:44 API.py [line:421] INFO user_queue size 178
+Thu 15 Jun 2017 15:43:44 API.py [line:422] INFO start process None ZENONZINDILIS
+Thu 15 Jun 2017 15:43:44 API.py [line:71] INFO value: None, ZENONZINDILIS
+Thu 15 Jun 2017 15:43:58 API.py [line:505] INFO None GarethEEvans total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:58 API.py [line:421] INFO user_queue size 177
+Thu 15 Jun 2017 15:43:58 API.py [line:422] INFO start process None woolfek02
+Thu 15 Jun 2017 15:43:58 API.py [line:71] INFO value: None, woolfek02
+Thu 15 Jun 2017 15:43:59 API.py [line:505] INFO None 22AmyRose total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:59 API.py [line:421] INFO user_queue size 176
+Thu 15 Jun 2017 15:43:59 API.py [line:422] INFO start process None allaboutshe
+Thu 15 Jun 2017 15:43:59 API.py [line:71] INFO value: None, allaboutshe
+Thu 15 Jun 2017 15:43:59 API.py [line:505] INFO None dukeofbeeston total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:43:59 API.py [line:421] INFO user_queue size 175
+Thu 15 Jun 2017 15:43:59 API.py [line:422] INFO start process None iamsojogood
+Thu 15 Jun 2017 15:43:59 API.py [line:71] INFO value: None, iamsojogood
+Thu 15 Jun 2017 15:44:01 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:44:01 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:44:01 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:44:01 API.py [line:460] WARNING None iamsojogood is not alive.
+Thu 15 Jun 2017 15:44:01 API.py [line:421] INFO user_queue size 174
+Thu 15 Jun 2017 15:44:01 API.py [line:422] INFO start process None GarryBushell
+Thu 15 Jun 2017 15:44:01 API.py [line:71] INFO value: None, GarryBushell
+Thu 15 Jun 2017 15:44:03 API.py [line:505] INFO None VpnRouters total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:44:03 API.py [line:421] INFO user_queue size 173
+Thu 15 Jun 2017 15:44:03 API.py [line:422] INFO start process None artdirectionk
+Thu 15 Jun 2017 15:44:03 API.py [line:71] INFO value: None, artdirectionk
+Thu 15 Jun 2017 15:44:03 API.py [line:505] INFO None JonTrevor total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:44:03 API.py [line:421] INFO user_queue size 172
+Thu 15 Jun 2017 15:44:03 API.py [line:422] INFO start process None UrbanKingUK
+Thu 15 Jun 2017 15:44:03 API.py [line:71] INFO value: None, UrbanKingUK
+Thu 15 Jun 2017 15:44:09 API.py [line:505] INFO None CamelStu total insert 500 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:44:09 API.py [line:421] INFO user_queue size 171
+Thu 15 Jun 2017 15:44:09 API.py [line:422] INFO start process None theayalashow
+Thu 15 Jun 2017 15:44:09 API.py [line:71] INFO value: None, theayalashow
+Thu 15 Jun 2017 15:44:10 API.py [line:505] INFO None woolfek02 total insert 189 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:44:10 API.py [line:421] INFO user_queue size 170
+Thu 15 Jun 2017 15:44:10 API.py [line:422] INFO start process None MattJFrederick
+Thu 15 Jun 2017 15:44:10 API.py [line:71] INFO value: None, MattJFrederick
+Thu 15 Jun 2017 15:45:04 API.py [line:484] ERROR connection closed
+Thu 15 Jun 2017 15:45:04 API.py [line:484] ERROR connection closed
+Thu 15 Jun 2017 15:45:04 API.py [line:484] ERROR connection closed
+Thu 15 Jun 2017 15:45:04 API.py [line:484] ERROR connection closed
+Thu 15 Jun 2017 15:45:04 API.py [line:484] ERROR connection closed
+Thu 15 Jun 2017 15:45:04 API.py [line:484] ERROR connection closed
+Thu 15 Jun 2017 15:45:04 API.py [line:484] ERROR connection closed
+Thu 15 Jun 2017 15:45:04 API.py [line:484] ERROR connection closed
+Thu 15 Jun 2017 15:45:09 API.py [line:421] INFO user_queue size 169
+Thu 15 Jun 2017 15:45:09 API.py [line:422] INFO start process None elliemakesmusic
+Thu 15 Jun 2017 15:45:09 API.py [line:71] INFO value: None, elliemakesmusic
+Thu 15 Jun 2017 15:45:09 API.py [line:421] INFO user_queue size 168
+Thu 15 Jun 2017 15:45:09 API.py [line:422] INFO start process None gwynethjane_
+Thu 15 Jun 2017 15:45:09 API.py [line:71] INFO value: None, gwynethjane_
+Thu 15 Jun 2017 15:45:09 API.py [line:421] INFO user_queue size 167
+Thu 15 Jun 2017 15:45:09 API.py [line:422] INFO start process None StudiosSnorkel
+Thu 15 Jun 2017 15:45:09 API.py [line:71] INFO value: None, StudiosSnorkel
+Thu 15 Jun 2017 15:45:09 API.py [line:421] INFO user_queue size 166
+Thu 15 Jun 2017 15:45:09 API.py [line:422] INFO start process None ash_london
+Thu 15 Jun 2017 15:45:09 API.py [line:71] INFO value: None, ash_london
+Thu 15 Jun 2017 15:45:09 API.py [line:421] INFO user_queue size 165
+Thu 15 Jun 2017 15:45:09 API.py [line:421] INFO user_queue size 164
+Thu 15 Jun 2017 15:45:09 API.py [line:421] INFO user_queue size 163
+Thu 15 Jun 2017 15:45:09 API.py [line:421] INFO user_queue size 162
+Thu 15 Jun 2017 15:45:09 API.py [line:422] INFO start process None Smallzy
+Thu 15 Jun 2017 15:45:09 API.py [line:422] INFO start process None timandbarry
+Thu 15 Jun 2017 15:45:09 API.py [line:422] INFO start process None turndownforwalt
+Thu 15 Jun 2017 15:45:09 API.py [line:422] INFO start process None AlexMooreHQ
+Thu 15 Jun 2017 15:45:09 API.py [line:71] INFO value: None, Smallzy
+Thu 15 Jun 2017 15:45:09 API.py [line:71] INFO value: None, timandbarry
+Thu 15 Jun 2017 15:45:09 API.py [line:71] INFO value: None, turndownforwalt
+Thu 15 Jun 2017 15:45:09 API.py [line:71] INFO value: None, AlexMooreHQ
+Thu 15 Jun 2017 15:45:42 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:45:43 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:45:43 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:45:43 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:45:43 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:45:43 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:45:43 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:45:43 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:45:47 API.py [line:421] INFO user_queue size 161
+Thu 15 Jun 2017 15:45:47 API.py [line:422] INFO start process None ABRAOFFICIAL
+Thu 15 Jun 2017 15:45:47 API.py [line:71] INFO value: None, ABRAOFFICIAL
+Thu 15 Jun 2017 15:45:48 API.py [line:421] INFO user_queue size 160
+Thu 15 Jun 2017 15:45:48 API.py [line:422] INFO start process None OldLibrary_EV
+Thu 15 Jun 2017 15:45:48 API.py [line:71] INFO value: None, OldLibrary_EV
+Thu 15 Jun 2017 15:45:48 API.py [line:421] INFO user_queue size 159
+Thu 15 Jun 2017 15:45:48 API.py [line:422] INFO start process None I_amMonkey
+Thu 15 Jun 2017 15:45:48 API.py [line:71] INFO value: None, I_amMonkey
+Thu 15 Jun 2017 15:45:48 API.py [line:421] INFO user_queue size 158
+Thu 15 Jun 2017 15:45:48 API.py [line:421] INFO user_queue size 156
+Thu 15 Jun 2017 15:45:48 API.py [line:421] INFO user_queue size 157
+Thu 15 Jun 2017 15:45:48 API.py [line:422] INFO start process None veeno_uk
+Thu 15 Jun 2017 15:45:48 API.py [line:422] INFO start process None ClarkRob99
+Thu 15 Jun 2017 15:45:48 API.py [line:421] INFO user_queue size 155
+Thu 15 Jun 2017 15:45:48 API.py [line:422] INFO start process None BarberLoungeUK
+Thu 15 Jun 2017 15:45:48 API.py [line:71] INFO value: None, veeno_uk
+Thu 15 Jun 2017 15:45:48 API.py [line:71] INFO value: None, ClarkRob99
+Thu 15 Jun 2017 15:45:48 API.py [line:422] INFO start process None PartyBales
+Thu 15 Jun 2017 15:45:48 API.py [line:71] INFO value: None, BarberLoungeUK
+Thu 15 Jun 2017 15:45:48 API.py [line:71] INFO value: None, PartyBales
+Thu 15 Jun 2017 15:45:48 API.py [line:421] INFO user_queue size 154
+Thu 15 Jun 2017 15:45:48 API.py [line:422] INFO start process None mrhmltn
+Thu 15 Jun 2017 15:45:48 API.py [line:71] INFO value: None, mrhmltn
+Thu 15 Jun 2017 15:46:20 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:20 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:21 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:21 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:22 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:22 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:22 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:22 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:25 API.py [line:421] INFO user_queue size 153
+Thu 15 Jun 2017 15:46:25 API.py [line:422] INFO start process None JohnBoyHastings
+Thu 15 Jun 2017 15:46:25 API.py [line:71] INFO value: None, JohnBoyHastings
+Thu 15 Jun 2017 15:46:25 API.py [line:421] INFO user_queue size 152
+Thu 15 Jun 2017 15:46:25 API.py [line:422] INFO start process None 001smartmart
+Thu 15 Jun 2017 15:46:25 API.py [line:71] INFO value: None, 001smartmart
+Thu 15 Jun 2017 15:46:26 API.py [line:421] INFO user_queue size 151
+Thu 15 Jun 2017 15:46:26 API.py [line:421] INFO user_queue size 150
+Thu 15 Jun 2017 15:46:26 API.py [line:422] INFO start process None XplosiveAction
+Thu 15 Jun 2017 15:46:26 API.py [line:422] INFO start process None ronkephillips
+Thu 15 Jun 2017 15:46:26 API.py [line:71] INFO value: None, XplosiveAction
+Thu 15 Jun 2017 15:46:26 API.py [line:71] INFO value: None, ronkephillips
+Thu 15 Jun 2017 15:46:27 API.py [line:421] INFO user_queue size 149
+Thu 15 Jun 2017 15:46:27 API.py [line:422] INFO start process None KidbyJo
+Thu 15 Jun 2017 15:46:27 API.py [line:71] INFO value: None, KidbyJo
+Thu 15 Jun 2017 15:46:27 API.py [line:421] INFO user_queue size 148
+Thu 15 Jun 2017 15:46:27 API.py [line:421] INFO user_queue size 147
+Thu 15 Jun 2017 15:46:27 API.py [line:422] INFO start process None JamieloweTV
+Thu 15 Jun 2017 15:46:27 API.py [line:422] INFO start process None RogerCameraman
+Thu 15 Jun 2017 15:46:27 API.py [line:71] INFO value: None, JamieloweTV
+Thu 15 Jun 2017 15:46:27 API.py [line:71] INFO value: None, RogerCameraman
+Thu 15 Jun 2017 15:46:27 API.py [line:421] INFO user_queue size 146
+Thu 15 Jun 2017 15:46:27 API.py [line:422] INFO start process None mattnewbery1
+Thu 15 Jun 2017 15:46:27 API.py [line:71] INFO value: None, mattnewbery1
+Thu 15 Jun 2017 15:46:58 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:58 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:58 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:59 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:59 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:59 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:59 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:46:59 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:47:03 API.py [line:421] INFO user_queue size 145
+Thu 15 Jun 2017 15:47:03 API.py [line:422] INFO start process None TracyPatfield
+Thu 15 Jun 2017 15:47:03 API.py [line:71] INFO value: None, TracyPatfield
+Thu 15 Jun 2017 15:47:03 API.py [line:421] INFO user_queue size 144
+Thu 15 Jun 2017 15:47:03 API.py [line:422] INFO start process None georgehancorn
+Thu 15 Jun 2017 15:47:03 API.py [line:71] INFO value: None, georgehancorn
+Thu 15 Jun 2017 15:47:03 API.py [line:421] INFO user_queue size 143
+Thu 15 Jun 2017 15:47:03 API.py [line:422] INFO start process None TheBottleYard
+Thu 15 Jun 2017 15:47:03 API.py [line:71] INFO value: None, TheBottleYard
+Thu 15 Jun 2017 15:47:04 API.py [line:421] INFO user_queue size 142
+Thu 15 Jun 2017 15:47:04 API.py [line:422] INFO start process None charlottepartt
+Thu 15 Jun 2017 15:47:04 API.py [line:71] INFO value: None, charlottepartt
+Thu 15 Jun 2017 15:47:04 API.py [line:421] INFO user_queue size 141
+Thu 15 Jun 2017 15:47:04 API.py [line:422] INFO start process None themoviewaffler
+Thu 15 Jun 2017 15:47:04 API.py [line:71] INFO value: None, themoviewaffler
+Thu 15 Jun 2017 15:47:04 API.py [line:421] INFO user_queue size 140
+Thu 15 Jun 2017 15:47:04 API.py [line:422] INFO start process None adrianbell1
+Thu 15 Jun 2017 15:47:04 API.py [line:421] INFO user_queue size 139
+Thu 15 Jun 2017 15:47:04 API.py [line:421] INFO user_queue size 138
+Thu 15 Jun 2017 15:47:04 API.py [line:71] INFO value: None, adrianbell1
+Thu 15 Jun 2017 15:47:04 API.py [line:422] INFO start process None SquishiVision
+Thu 15 Jun 2017 15:47:04 API.py [line:422] INFO start process None WarwickFilmTV
+Thu 15 Jun 2017 15:47:04 API.py [line:71] INFO value: None, SquishiVision
+Thu 15 Jun 2017 15:47:04 API.py [line:71] INFO value: None, WarwickFilmTV
+Thu 15 Jun 2017 15:47:35 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:47:37 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:47:37 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:47:37 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:47:37 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:47:38 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:47:38 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:47:38 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:47:40 API.py [line:421] INFO user_queue size 137
+Thu 15 Jun 2017 15:47:40 API.py [line:422] INFO start process None Akimptonnye
+Thu 15 Jun 2017 15:47:40 API.py [line:71] INFO value: None, Akimptonnye
+Thu 15 Jun 2017 15:47:42 API.py [line:421] INFO user_queue size 136
+Thu 15 Jun 2017 15:47:42 API.py [line:421] INFO user_queue size 135
+Thu 15 Jun 2017 15:47:42 API.py [line:422] INFO start process None josettewolthuis
+Thu 15 Jun 2017 15:47:42 API.py [line:422] INFO start process None HandsOn2016
+Thu 15 Jun 2017 15:47:42 API.py [line:71] INFO value: None, josettewolthuis
+Thu 15 Jun 2017 15:47:42 API.py [line:71] INFO value: None, HandsOn2016
+Thu 15 Jun 2017 15:47:42 API.py [line:421] INFO user_queue size 134
+Thu 15 Jun 2017 15:47:42 API.py [line:421] INFO user_queue size 133
+Thu 15 Jun 2017 15:47:42 API.py [line:422] INFO start process None aaron_m_hunter
+Thu 15 Jun 2017 15:47:43 API.py [line:422] INFO start process None rachelsmoseley
+Thu 15 Jun 2017 15:47:43 API.py [line:71] INFO value: None, aaron_m_hunter
+Thu 15 Jun 2017 15:47:43 API.py [line:71] INFO value: None, rachelsmoseley
+Thu 15 Jun 2017 15:47:43 API.py [line:421] INFO user_queue size 132
+Thu 15 Jun 2017 15:47:43 API.py [line:421] INFO user_queue size 131
+Thu 15 Jun 2017 15:47:43 API.py [line:421] INFO user_queue size 130
+Thu 15 Jun 2017 15:47:43 API.py [line:422] INFO start process None Slack_Men
+Thu 15 Jun 2017 15:47:43 API.py [line:422] INFO start process None eoinm89
+Thu 15 Jun 2017 15:47:43 API.py [line:422] INFO start process None tmj_nyc_media1
+Thu 15 Jun 2017 15:47:43 API.py [line:71] INFO value: None, Slack_Men
+Thu 15 Jun 2017 15:47:43 API.py [line:71] INFO value: None, eoinm89
+Thu 15 Jun 2017 15:47:43 API.py [line:71] INFO value: None, tmj_nyc_media1
+Thu 15 Jun 2017 15:47:45 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:47:45 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:47:45 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:47:45 API.py [line:451] WARNING None Slack_Menis protected.
+Thu 15 Jun 2017 15:48:14 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:15 API.py [line:421] INFO user_queue size 129
+Thu 15 Jun 2017 15:48:15 API.py [line:422] INFO start process None mandyNYall
+Thu 15 Jun 2017 15:48:15 API.py [line:71] INFO value: None, mandyNYall
+Thu 15 Jun 2017 15:48:15 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:16 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:16 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:16 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:16 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:16 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:19 API.py [line:421] INFO user_queue size 128
+Thu 15 Jun 2017 15:48:19 API.py [line:422] INFO start process None mandyUKall
+Thu 15 Jun 2017 15:48:19 API.py [line:71] INFO value: None, mandyUKall
+Thu 15 Jun 2017 15:48:20 API.py [line:421] INFO user_queue size 127
+Thu 15 Jun 2017 15:48:20 API.py [line:422] INFO start process None tfordemedia
+Thu 15 Jun 2017 15:48:20 API.py [line:71] INFO value: None, tfordemedia
+Thu 15 Jun 2017 15:48:21 API.py [line:421] INFO user_queue size 126
+Thu 15 Jun 2017 15:48:21 API.py [line:422] INFO start process None Squeezegutalley
+Thu 15 Jun 2017 15:48:21 API.py [line:71] INFO value: None, Squeezegutalley
+Thu 15 Jun 2017 15:48:21 API.py [line:421] INFO user_queue size 125
+Thu 15 Jun 2017 15:48:21 API.py [line:421] INFO user_queue size 124
+Thu 15 Jun 2017 15:48:21 API.py [line:421] INFO user_queue size 123
+Thu 15 Jun 2017 15:48:21 API.py [line:422] INFO start process None tvcuratorbfi
+Thu 15 Jun 2017 15:48:21 API.py [line:422] INFO start process None KeithMJohnston
+Thu 15 Jun 2017 15:48:21 API.py [line:422] INFO start process None luca_barra
+Thu 15 Jun 2017 15:48:21 API.py [line:71] INFO value: None, tvcuratorbfi
+Thu 15 Jun 2017 15:48:21 API.py [line:71] INFO value: None, KeithMJohnston
+Thu 15 Jun 2017 15:48:21 API.py [line:71] INFO value: None, luca_barra
+Thu 15 Jun 2017 15:48:21 API.py [line:421] INFO user_queue size 122
+Thu 15 Jun 2017 15:48:21 API.py [line:422] INFO start process None jesson_claire
+Thu 15 Jun 2017 15:48:21 API.py [line:71] INFO value: None, jesson_claire
+Thu 15 Jun 2017 15:48:22 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:48:22 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:48:22 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:48:22 API.py [line:460] WARNING None tfordemedia is not alive.
+Thu 15 Jun 2017 15:48:22 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:48:22 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:48:22 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:48:22 API.py [line:460] WARNING None tvcuratorbfi is not alive.
+Thu 15 Jun 2017 15:48:49 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:51 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:52 API.py [line:421] INFO user_queue size 121
+Thu 15 Jun 2017 15:48:52 API.py [line:422] INFO start process None ProjProject
+Thu 15 Jun 2017 15:48:52 API.py [line:71] INFO value: None, ProjProject
+Thu 15 Jun 2017 15:48:53 API.py [line:421] INFO user_queue size 120
+Thu 15 Jun 2017 15:48:53 API.py [line:422] INFO start process None LFDonaldson
+Thu 15 Jun 2017 15:48:53 API.py [line:71] INFO value: None, LFDonaldson
+Thu 15 Jun 2017 15:48:53 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:53 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:54 API.py [line:421] INFO user_queue size 119
+Thu 15 Jun 2017 15:48:54 API.py [line:422] INFO start process None allypeirse
+Thu 15 Jun 2017 15:48:54 API.py [line:71] INFO value: None, allypeirse
+Thu 15 Jun 2017 15:48:54 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:54 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:48:56 API.py [line:421] INFO user_queue size 118
+Thu 15 Jun 2017 15:48:56 API.py [line:422] INFO start process None sbcalling
+Thu 15 Jun 2017 15:48:56 API.py [line:71] INFO value: None, sbcalling
+Thu 15 Jun 2017 15:48:58 API.py [line:421] INFO user_queue size 117
+Thu 15 Jun 2017 15:48:58 API.py [line:421] INFO user_queue size 116
+Thu 15 Jun 2017 15:48:58 API.py [line:422] INFO start process None LeahPanos
+Thu 15 Jun 2017 15:48:58 API.py [line:422] INFO start process None STVFootageSales
+Thu 15 Jun 2017 15:48:58 API.py [line:71] INFO value: None, LeahPanos
+Thu 15 Jun 2017 15:48:58 API.py [line:71] INFO value: None, STVFootageSales
+Thu 15 Jun 2017 15:48:59 API.py [line:421] INFO user_queue size 115
+Thu 15 Jun 2017 15:48:59 API.py [line:422] INFO start process None SeinfeldTV
+Thu 15 Jun 2017 15:48:59 API.py [line:71] INFO value: None, SeinfeldTV
+Thu 15 Jun 2017 15:48:59 API.py [line:421] INFO user_queue size 114
+Thu 15 Jun 2017 15:48:59 API.py [line:422] INFO start process None amanda_wrigley
+Thu 15 Jun 2017 15:48:59 API.py [line:71] INFO value: None, amanda_wrigley
+Thu 15 Jun 2017 15:49:25 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:49:25 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:49:27 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:49:29 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:49:30 API.py [line:421] INFO user_queue size 113
+Thu 15 Jun 2017 15:49:30 API.py [line:422] INFO start process None kerriganagain
+Thu 15 Jun 2017 15:49:30 API.py [line:71] INFO value: None, kerriganagain
+Thu 15 Jun 2017 15:49:30 API.py [line:421] INFO user_queue size 112
+Thu 15 Jun 2017 15:49:30 API.py [line:422] INFO start process None ieuanfranklin
+Thu 15 Jun 2017 15:49:30 API.py [line:71] INFO value: None, ieuanfranklin
+Thu 15 Jun 2017 15:49:30 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:49:32 API.py [line:421] INFO user_queue size 111
+Thu 15 Jun 2017 15:49:32 API.py [line:422] INFO start process None glasdyliang
+Thu 15 Jun 2017 15:49:32 API.py [line:71] INFO value: None, glasdyliang
+Thu 15 Jun 2017 15:49:32 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:49:32 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:49:33 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:49:33 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:49:33 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:49:33 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:49:33 API.py [line:451] WARNING None ieuanfranklinis protected.
+Thu 15 Jun 2017 15:49:34 API.py [line:421] INFO user_queue size 110
+Thu 15 Jun 2017 15:49:34 API.py [line:422] INFO start process None heather1980_
+Thu 15 Jun 2017 15:49:34 API.py [line:71] INFO value: None, heather1980_
+Thu 15 Jun 2017 15:49:35 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:49:35 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:49:35 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:49:35 API.py [line:460] WARNING None heather1980_ is not alive.
+Thu 15 Jun 2017 15:49:35 API.py [line:421] INFO user_queue size 109
+Thu 15 Jun 2017 15:49:35 API.py [line:422] INFO start process None identykit
+Thu 15 Jun 2017 15:49:35 API.py [line:71] INFO value: None, identykit
+Thu 15 Jun 2017 15:49:37 API.py [line:421] INFO user_queue size 108
+Thu 15 Jun 2017 15:49:37 API.py [line:422] INFO start process None KatiaLarinan
+Thu 15 Jun 2017 15:49:37 API.py [line:71] INFO value: None, KatiaLarinan
+Thu 15 Jun 2017 15:49:37 API.py [line:421] INFO user_queue size 107
+Thu 15 Jun 2017 15:49:37 API.py [line:422] INFO start process None mimosamargot
+Thu 15 Jun 2017 15:49:37 API.py [line:71] INFO value: None, mimosamargot
+Thu 15 Jun 2017 15:49:38 API.py [line:421] INFO user_queue size 106
+Thu 15 Jun 2017 15:49:38 API.py [line:422] INFO start process None Jan_Leeming
+Thu 15 Jun 2017 15:49:38 API.py [line:71] INFO value: None, Jan_Leeming
+Thu 15 Jun 2017 15:49:39 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:49:39 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:49:39 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:49:39 API.py [line:451] WARNING None mimosamargotis protected.
+Thu 15 Jun 2017 15:50:02 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:03 API.py [line:421] INFO user_queue size 105
+Thu 15 Jun 2017 15:50:03 API.py [line:422] INFO start process None japster2008
+Thu 15 Jun 2017 15:50:03 API.py [line:71] INFO value: None, japster2008
+Thu 15 Jun 2017 15:50:05 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:05 API.py [line:421] INFO user_queue size 104
+Thu 15 Jun 2017 15:50:05 API.py [line:422] INFO start process None htwcentral
+Thu 15 Jun 2017 15:50:05 API.py [line:71] INFO value: None, htwcentral
+Thu 15 Jun 2017 15:50:07 API.py [line:421] INFO user_queue size 103
+Thu 15 Jun 2017 15:50:07 API.py [line:422] INFO start process None lukecaddel
+Thu 15 Jun 2017 15:50:07 API.py [line:71] INFO value: None, lukecaddel
+Thu 15 Jun 2017 15:50:07 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:09 API.py [line:421] INFO user_queue size 102
+Thu 15 Jun 2017 15:50:09 API.py [line:422] INFO start process None borncontentuk
+Thu 15 Jun 2017 15:50:09 API.py [line:71] INFO value: None, borncontentuk
+Thu 15 Jun 2017 15:50:10 API.py [line:421] INFO user_queue size 101
+Thu 15 Jun 2017 15:50:10 API.py [line:422] INFO start process None geoffsoho
+Thu 15 Jun 2017 15:50:10 API.py [line:71] INFO value: None, geoffsoho
+Thu 15 Jun 2017 15:50:10 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:10 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:11 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:50:11 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:50:11 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:50:11 API.py [line:460] WARNING None borncontentuk is not alive.
+Thu 15 Jun 2017 15:50:12 API.py [line:421] INFO user_queue size 100
+Thu 15 Jun 2017 15:50:12 API.py [line:422] INFO start process None tfrandsons
+Thu 15 Jun 2017 15:50:12 API.py [line:71] INFO value: None, tfrandsons
+Thu 15 Jun 2017 15:50:15 API.py [line:421] INFO user_queue size 99
+Thu 15 Jun 2017 15:50:15 API.py [line:421] INFO user_queue size 98
+Thu 15 Jun 2017 15:50:15 API.py [line:422] INFO start process None DrCelineFitz
+Thu 15 Jun 2017 15:50:15 API.py [line:422] INFO start process None UKFilmTVCritic
+Thu 15 Jun 2017 15:50:15 API.py [line:71] INFO value: None, DrCelineFitz
+Thu 15 Jun 2017 15:50:15 API.py [line:71] INFO value: None, UKFilmTVCritic
+Thu 15 Jun 2017 15:50:37 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:39 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:41 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:41 API.py [line:421] INFO user_queue size 97
+Thu 15 Jun 2017 15:50:41 API.py [line:422] INFO start process None tomglasson
+Thu 15 Jun 2017 15:50:41 API.py [line:71] INFO value: None, tomglasson
+Thu 15 Jun 2017 15:50:42 API.py [line:421] INFO user_queue size 96
+Thu 15 Jun 2017 15:50:42 API.py [line:422] INFO start process None frannyarmstrong
+Thu 15 Jun 2017 15:50:42 API.py [line:71] INFO value: None, frannyarmstrong
+Thu 15 Jun 2017 15:50:43 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:44 API.py [line:421] INFO user_queue size 95
+Thu 15 Jun 2017 15:50:44 API.py [line:422] INFO start process None rycarter
+Thu 15 Jun 2017 15:50:44 API.py [line:71] INFO value: None, rycarter
+Thu 15 Jun 2017 15:50:46 API.py [line:421] INFO user_queue size 94
+Thu 15 Jun 2017 15:50:46 API.py [line:422] INFO start process None smhentnews
+Thu 15 Jun 2017 15:50:46 API.py [line:71] INFO value: None, smhentnews
+Thu 15 Jun 2017 15:50:47 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:48 API.py [line:421] INFO user_queue size 93
+Thu 15 Jun 2017 15:50:48 API.py [line:422] INFO start process None oztvjobs
+Thu 15 Jun 2017 15:50:48 API.py [line:71] INFO value: None, oztvjobs
+Thu 15 Jun 2017 15:50:48 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:48 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:50:52 API.py [line:421] INFO user_queue size 92
+Thu 15 Jun 2017 15:50:52 API.py [line:422] INFO start process None divadybhsa
+Thu 15 Jun 2017 15:50:52 API.py [line:71] INFO value: None, divadybhsa
+Thu 15 Jun 2017 15:50:53 API.py [line:421] INFO user_queue size 91
+Thu 15 Jun 2017 15:50:53 API.py [line:422] INFO start process None Film_TV_
+Thu 15 Jun 2017 15:50:53 API.py [line:71] INFO value: None, Film_TV_
+Thu 15 Jun 2017 15:50:53 API.py [line:421] INFO user_queue size 90
+Thu 15 Jun 2017 15:50:53 API.py [line:422] INFO start process None VickyLee_V
+Thu 15 Jun 2017 15:50:53 API.py [line:71] INFO value: None, VickyLee_V
+Thu 15 Jun 2017 15:51:14 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:15 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:16 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:18 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:19 API.py [line:421] INFO user_queue size 89
+Thu 15 Jun 2017 15:51:19 API.py [line:422] INFO start process None nowtro
+Thu 15 Jun 2017 15:51:19 API.py [line:71] INFO value: None, nowtro
+Thu 15 Jun 2017 15:51:20 API.py [line:421] INFO user_queue size 88
+Thu 15 Jun 2017 15:51:20 API.py [line:422] INFO start process None jimbarrington1
+Thu 15 Jun 2017 15:51:20 API.py [line:71] INFO value: None, jimbarrington1
+Thu 15 Jun 2017 15:51:20 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:21 API.py [line:421] INFO user_queue size 87
+Thu 15 Jun 2017 15:51:21 API.py [line:422] INFO start process None Dene71
+Thu 15 Jun 2017 15:51:21 API.py [line:71] INFO value: None, Dene71
+Thu 15 Jun 2017 15:51:23 API.py [line:421] INFO user_queue size 86
+Thu 15 Jun 2017 15:51:23 API.py [line:422] INFO start process None funforliffe
+Thu 15 Jun 2017 15:51:23 API.py [line:71] INFO value: None, funforliffe
+Thu 15 Jun 2017 15:51:25 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:25 API.py [line:421] INFO user_queue size 85
+Thu 15 Jun 2017 15:51:25 API.py [line:422] INFO start process None PELservices1
+Thu 15 Jun 2017 15:51:25 API.py [line:71] INFO value: None, PELservices1
+Thu 15 Jun 2017 15:51:26 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:26 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:30 API.py [line:421] INFO user_queue size 84
+Thu 15 Jun 2017 15:51:30 API.py [line:422] INFO start process None steamroommedia
+Thu 15 Jun 2017 15:51:30 API.py [line:71] INFO value: None, steamroommedia
+Thu 15 Jun 2017 15:51:31 API.py [line:421] INFO user_queue size 83
+Thu 15 Jun 2017 15:51:31 API.py [line:422] INFO start process None TNT_CIC
+Thu 15 Jun 2017 15:51:31 API.py [line:71] INFO value: None, TNT_CIC
+Thu 15 Jun 2017 15:51:31 API.py [line:421] INFO user_queue size 82
+Thu 15 Jun 2017 15:51:31 API.py [line:422] INFO start process None TelevisionAU
+Thu 15 Jun 2017 15:51:31 API.py [line:71] INFO value: None, TelevisionAU
+Thu 15 Jun 2017 15:51:52 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:52 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:54 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:56 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:57 API.py [line:421] INFO user_queue size 81
+Thu 15 Jun 2017 15:51:57 API.py [line:422] INFO start process None ImogenByron
+Thu 15 Jun 2017 15:51:57 API.py [line:71] INFO value: None, ImogenByron
+Thu 15 Jun 2017 15:51:57 API.py [line:421] INFO user_queue size 80
+Thu 15 Jun 2017 15:51:57 API.py [line:422] INFO start process None brent_owens3
+Thu 15 Jun 2017 15:51:57 API.py [line:71] INFO value: None, brent_owens3
+Thu 15 Jun 2017 15:51:58 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:51:59 API.py [line:421] INFO user_queue size 79
+Thu 15 Jun 2017 15:51:59 API.py [line:422] INFO start process None MrChrisWrites
+Thu 15 Jun 2017 15:51:59 API.py [line:71] INFO value: None, MrChrisWrites
+Thu 15 Jun 2017 15:52:01 API.py [line:421] INFO user_queue size 78
+Thu 15 Jun 2017 15:52:01 API.py [line:422] INFO start process None MrsGillySmith
+Thu 15 Jun 2017 15:52:01 API.py [line:71] INFO value: None, MrsGillySmith
+Thu 15 Jun 2017 15:52:03 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:03 API.py [line:421] INFO user_queue size 77
+Thu 15 Jun 2017 15:52:03 API.py [line:422] INFO start process None romankemp
+Thu 15 Jun 2017 15:52:03 API.py [line:71] INFO value: None, romankemp
+Thu 15 Jun 2017 15:52:03 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:04 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:08 API.py [line:421] INFO user_queue size 76
+Thu 15 Jun 2017 15:52:08 API.py [line:422] INFO start process None EnterOverdose
+Thu 15 Jun 2017 15:52:08 API.py [line:71] INFO value: None, EnterOverdose
+Thu 15 Jun 2017 15:52:08 API.py [line:421] INFO user_queue size 75
+Thu 15 Jun 2017 15:52:08 API.py [line:422] INFO start process None JennySpringett
+Thu 15 Jun 2017 15:52:08 API.py [line:71] INFO value: None, JennySpringett
+Thu 15 Jun 2017 15:52:09 API.py [line:421] INFO user_queue size 74
+Thu 15 Jun 2017 15:52:09 API.py [line:422] INFO start process None kieransandhur
+Thu 15 Jun 2017 15:52:09 API.py [line:71] INFO value: None, kieransandhur
+Thu 15 Jun 2017 15:52:30 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:30 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:32 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:34 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:35 API.py [line:421] INFO user_queue size 73
+Thu 15 Jun 2017 15:52:35 API.py [line:422] INFO start process None AnielloMcSaints
+Thu 15 Jun 2017 15:52:35 API.py [line:71] INFO value: None, AnielloMcSaints
+Thu 15 Jun 2017 15:52:35 API.py [line:421] INFO user_queue size 72
+Thu 15 Jun 2017 15:52:35 API.py [line:422] INFO start process None KirstieLochtman
+Thu 15 Jun 2017 15:52:35 API.py [line:71] INFO value: None, KirstieLochtman
+Thu 15 Jun 2017 15:52:36 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:37 API.py [line:421] INFO user_queue size 71
+Thu 15 Jun 2017 15:52:37 API.py [line:422] INFO start process None JonBall
+Thu 15 Jun 2017 15:52:37 API.py [line:71] INFO value: None, JonBall
+Thu 15 Jun 2017 15:52:39 API.py [line:421] INFO user_queue size 70
+Thu 15 Jun 2017 15:52:39 API.py [line:422] INFO start process None LucyAlexandria
+Thu 15 Jun 2017 15:52:39 API.py [line:71] INFO value: None, LucyAlexandria
+Thu 15 Jun 2017 15:52:41 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:41 API.py [line:421] INFO user_queue size 69
+Thu 15 Jun 2017 15:52:41 API.py [line:422] INFO start process None lucy25
+Thu 15 Jun 2017 15:52:41 API.py [line:71] INFO value: None, lucy25
+Thu 15 Jun 2017 15:52:41 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:42 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:52:46 API.py [line:421] INFO user_queue size 68
+Thu 15 Jun 2017 15:52:46 API.py [line:422] INFO start process None rmeakin
+Thu 15 Jun 2017 15:52:46 API.py [line:71] INFO value: None, rmeakin
+Thu 15 Jun 2017 15:52:46 API.py [line:421] INFO user_queue size 67
+Thu 15 Jun 2017 15:52:46 API.py [line:422] INFO start process None RightChordMusic
+Thu 15 Jun 2017 15:52:46 API.py [line:71] INFO value: None, RightChordMusic
+Thu 15 Jun 2017 15:52:47 API.py [line:421] INFO user_queue size 66
+Thu 15 Jun 2017 15:52:47 API.py [line:422] INFO start process None pixiegigs
+Thu 15 Jun 2017 15:52:47 API.py [line:71] INFO value: None, pixiegigs
+Thu 15 Jun 2017 15:53:07 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:07 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:09 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:12 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:12 API.py [line:421] INFO user_queue size 65
+Thu 15 Jun 2017 15:53:12 API.py [line:422] INFO start process None _ChromePR_
+Thu 15 Jun 2017 15:53:12 API.py [line:71] INFO value: None, _ChromePR_
+Thu 15 Jun 2017 15:53:12 API.py [line:421] INFO user_queue size 64
+Thu 15 Jun 2017 15:53:12 API.py [line:422] INFO start process None DaleDownton
+Thu 15 Jun 2017 15:53:12 API.py [line:71] INFO value: None, DaleDownton
+Thu 15 Jun 2017 15:53:14 API.py [line:421] INFO user_queue size 63
+Thu 15 Jun 2017 15:53:14 API.py [line:422] INFO start process None DaisyKateBadger
+Thu 15 Jun 2017 15:53:14 API.py [line:71] INFO value: None, DaisyKateBadger
+Thu 15 Jun 2017 15:53:15 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:15 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:53:15 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:53:15 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:53:15 API.py [line:451] WARNING None DaisyKateBadgeris protected.
+Thu 15 Jun 2017 15:53:17 API.py [line:421] INFO user_queue size 62
+Thu 15 Jun 2017 15:53:17 API.py [line:422] INFO start process None RodLucas
+Thu 15 Jun 2017 15:53:17 API.py [line:71] INFO value: None, RodLucas
+Thu 15 Jun 2017 15:53:20 API.py [line:421] INFO user_queue size 61
+Thu 15 Jun 2017 15:53:20 API.py [line:422] INFO start process None martagodinho
+Thu 15 Jun 2017 15:53:20 API.py [line:71] INFO value: None, martagodinho
+Thu 15 Jun 2017 15:53:20 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:20 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:21 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:25 API.py [line:421] INFO user_queue size 60
+Thu 15 Jun 2017 15:53:25 API.py [line:422] INFO start process None AndrewBradley
+Thu 15 Jun 2017 15:53:25 API.py [line:71] INFO value: None, AndrewBradley
+Thu 15 Jun 2017 15:53:25 API.py [line:421] INFO user_queue size 59
+Thu 15 Jun 2017 15:53:25 API.py [line:422] INFO start process None Dr_Steph_
+Thu 15 Jun 2017 15:53:25 API.py [line:71] INFO value: None, Dr_Steph_
+Thu 15 Jun 2017 15:53:26 API.py [line:421] INFO user_queue size 58
+Thu 15 Jun 2017 15:53:26 API.py [line:422] INFO start process None BBC_Afaq
+Thu 15 Jun 2017 15:53:26 API.py [line:71] INFO value: None, BBC_Afaq
+Thu 15 Jun 2017 15:53:44 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:45 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:45 API.py [line:421] INFO user_queue size 57
+Thu 15 Jun 2017 15:53:45 API.py [line:422] INFO start process None Traffic_M60
+Thu 15 Jun 2017 15:53:45 API.py [line:71] INFO value: None, Traffic_M60
+Thu 15 Jun 2017 15:53:49 API.py [line:421] INFO user_queue size 56
+Thu 15 Jun 2017 15:53:49 API.py [line:422] INFO start process None WeWantEbie
+Thu 15 Jun 2017 15:53:49 API.py [line:71] INFO value: None, WeWantEbie
+Thu 15 Jun 2017 15:53:49 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:50 API.py [line:421] INFO user_queue size 55
+Thu 15 Jun 2017 15:53:50 API.py [line:422] INFO start process None DarkBunnyTees
+Thu 15 Jun 2017 15:53:50 API.py [line:71] INFO value: None, DarkBunnyTees
+Thu 15 Jun 2017 15:53:52 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:54 API.py [line:421] INFO user_queue size 54
+Thu 15 Jun 2017 15:53:54 API.py [line:422] INFO start process None ChefMurph_KT
+Thu 15 Jun 2017 15:53:54 API.py [line:71] INFO value: None, ChefMurph_KT
+Thu 15 Jun 2017 15:53:56 API.py [line:505] INFO None AndrewBradley total insert 0 tweets. duplicate 0 tweets.
+Thu 15 Jun 2017 15:53:56 API.py [line:421] INFO user_queue size 53
+Thu 15 Jun 2017 15:53:56 API.py [line:422] INFO start process None FoodBusker
+Thu 15 Jun 2017 15:53:56 API.py [line:71] INFO value: None, FoodBusker
+Thu 15 Jun 2017 15:53:57 API.py [line:421] INFO user_queue size 52
+Thu 15 Jun 2017 15:53:57 API.py [line:422] INFO start process None digthisfood
+Thu 15 Jun 2017 15:53:57 API.py [line:71] INFO value: None, digthisfood
+Thu 15 Jun 2017 15:53:57 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:53:58 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:54:02 API.py [line:421] INFO user_queue size 51
+Thu 15 Jun 2017 15:54:02 API.py [line:422] INFO start process None alisonchapman
+Thu 15 Jun 2017 15:54:02 API.py [line:71] INFO value: None, alisonchapman
+Thu 15 Jun 2017 15:54:03 API.py [line:421] INFO user_queue size 50
+Thu 15 Jun 2017 15:54:03 API.py [line:422] INFO start process None KremninDixon
+Thu 15 Jun 2017 15:54:03 API.py [line:71] INFO value: None, KremninDixon
+Thu 15 Jun 2017 15:54:04 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:54:04 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:54:04 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:54:04 API.py [line:460] WARNING None KremninDixon is not alive.
+Thu 15 Jun 2017 15:54:18 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:54:22 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:54:23 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:54:23 API.py [line:421] INFO user_queue size 49
+Thu 15 Jun 2017 15:54:23 API.py [line:422] INFO start process None MarkTh213
+Thu 15 Jun 2017 15:54:23 API.py [line:71] INFO value: None, MarkTh213
+Thu 15 Jun 2017 15:54:27 API.py [line:421] INFO user_queue size 48
+Thu 15 Jun 2017 15:54:27 API.py [line:422] INFO start process None betulp80
+Thu 15 Jun 2017 15:54:27 API.py [line:71] INFO value: None, betulp80
+Thu 15 Jun 2017 15:54:27 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:54:28 API.py [line:421] INFO user_queue size 47
+Thu 15 Jun 2017 15:54:28 API.py [line:422] INFO start process None cherylgriffin
+Thu 15 Jun 2017 15:54:28 API.py [line:71] INFO value: None, cherylgriffin
+Thu 15 Jun 2017 15:54:31 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:54:32 API.py [line:421] INFO user_queue size 46
+Thu 15 Jun 2017 15:54:32 API.py [line:422] INFO start process None ChefTonyTobin
+Thu 15 Jun 2017 15:54:32 API.py [line:71] INFO value: None, ChefTonyTobin
+Thu 15 Jun 2017 15:54:33 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:54:35 API.py [line:421] INFO user_queue size 45
+Thu 15 Jun 2017 15:54:35 API.py [line:422] INFO start process None louiseharrispr
+Thu 15 Jun 2017 15:54:35 API.py [line:71] INFO value: None, louiseharrispr
+Thu 15 Jun 2017 15:54:35 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:54:36 API.py [line:421] INFO user_queue size 44
+Thu 15 Jun 2017 15:54:36 API.py [line:422] INFO start process None jimmyinsydney
+Thu 15 Jun 2017 15:54:36 API.py [line:71] INFO value: None, jimmyinsydney
+Thu 15 Jun 2017 15:54:38 API.py [line:421] INFO user_queue size 43
+Thu 15 Jun 2017 15:54:38 API.py [line:422] INFO start process None NicoleWills95
+Thu 15 Jun 2017 15:54:38 API.py [line:71] INFO value: None, NicoleWills95
+Thu 15 Jun 2017 15:54:40 API.py [line:421] INFO user_queue size 42
+Thu 15 Jun 2017 15:54:40 API.py [line:422] INFO start process None sarahcooper300
+Thu 15 Jun 2017 15:54:40 API.py [line:71] INFO value: None, sarahcooper300
+Thu 15 Jun 2017 15:54:57 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:54:59 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:00 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:02 API.py [line:421] INFO user_queue size 41
+Thu 15 Jun 2017 15:55:02 API.py [line:422] INFO start process None PaulaVagalume
+Thu 15 Jun 2017 15:55:02 API.py [line:71] INFO value: None, PaulaVagalume
+Thu 15 Jun 2017 15:55:04 API.py [line:421] INFO user_queue size 40
+Thu 15 Jun 2017 15:55:04 API.py [line:422] INFO start process None barrypvera
+Thu 15 Jun 2017 15:55:04 API.py [line:71] INFO value: None, barrypvera
+Thu 15 Jun 2017 15:55:05 API.py [line:421] INFO user_queue size 39
+Thu 15 Jun 2017 15:55:05 API.py [line:422] INFO start process None NicoleLeeTV
+Thu 15 Jun 2017 15:55:05 API.py [line:71] INFO value: None, NicoleLeeTV
+Thu 15 Jun 2017 15:55:06 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:08 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:09 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:10 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:11 API.py [line:421] INFO user_queue size 38
+Thu 15 Jun 2017 15:55:11 API.py [line:422] INFO start process None hk_1620
+Thu 15 Jun 2017 15:55:11 API.py [line:71] INFO value: None, hk_1620
+Thu 15 Jun 2017 15:55:13 API.py [line:421] INFO user_queue size 37
+Thu 15 Jun 2017 15:55:13 API.py [line:422] INFO start process None Ianlamarra1
+Thu 15 Jun 2017 15:55:13 API.py [line:71] INFO value: None, Ianlamarra1
+Thu 15 Jun 2017 15:55:13 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:14 API.py [line:421] INFO user_queue size 36
+Thu 15 Jun 2017 15:55:14 API.py [line:422] INFO start process None ILoveLucyLive
+Thu 15 Jun 2017 15:55:14 API.py [line:71] INFO value: None, ILoveLucyLive
+Thu 15 Jun 2017 15:55:14 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:55:14 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:55:14 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:55:14 API.py [line:451] WARNING None Ianlamarra1is protected.
+Thu 15 Jun 2017 15:55:15 API.py [line:421] INFO user_queue size 35
+Thu 15 Jun 2017 15:55:15 API.py [line:422] INFO start process None FBRetroVision
+Thu 15 Jun 2017 15:55:15 API.py [line:71] INFO value: None, FBRetroVision
+Thu 15 Jun 2017 15:55:18 API.py [line:421] INFO user_queue size 34
+Thu 15 Jun 2017 15:55:18 API.py [line:422] INFO start process None GjbNoize
+Thu 15 Jun 2017 15:55:18 API.py [line:71] INFO value: None, GjbNoize
+Thu 15 Jun 2017 15:55:19 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:55:19 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:55:19 TwitterError.py [line:34] INFO Status code 401: Twitter request failed
+Thu 15 Jun 2017 15:55:19 API.py [line:451] WARNING None GjbNoizeis protected.
+Thu 15 Jun 2017 15:55:35 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:37 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:38 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:40 API.py [line:421] INFO user_queue size 33
+Thu 15 Jun 2017 15:55:40 API.py [line:422] INFO start process None kerploshcouk
+Thu 15 Jun 2017 15:55:40 API.py [line:71] INFO value: None, kerploshcouk
+Thu 15 Jun 2017 15:55:42 API.py [line:421] INFO user_queue size 32
+Thu 15 Jun 2017 15:55:42 API.py [line:422] INFO start process None yvecresson
+Thu 15 Jun 2017 15:55:42 API.py [line:71] INFO value: None, yvecresson
+Thu 15 Jun 2017 15:55:43 API.py [line:421] INFO user_queue size 31
+Thu 15 Jun 2017 15:55:43 API.py [line:422] INFO start process None JohnnyCarson
+Thu 15 Jun 2017 15:55:43 API.py [line:71] INFO value: None, JohnnyCarson
+Thu 15 Jun 2017 15:55:43 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:44 API.py [line:421] INFO user_queue size 30
+Thu 15 Jun 2017 15:55:44 API.py [line:422] INFO start process None GLEEonFOX
+Thu 15 Jun 2017 15:55:44 API.py [line:71] INFO value: None, GLEEonFOX
+Thu 15 Jun 2017 15:55:48 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:48 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:55:48 API.py [line:421] INFO user_queue size 29
+Thu 15 Jun 2017 15:55:48 API.py [line:422] INFO start process None charlieangels76
+Thu 15 Jun 2017 15:55:48 API.py [line:71] INFO value: None, charlieangels76
+Thu 15 Jun 2017 15:55:49 API.py [line:421] INFO user_queue size 28
+Thu 15 Jun 2017 15:55:49 API.py [line:422] INFO start process None GirlsLoveSciFi
+Thu 15 Jun 2017 15:55:49 API.py [line:71] INFO value: None, GirlsLoveSciFi
+Thu 15 Jun 2017 15:55:53 API.py [line:421] INFO user_queue size 27
+Thu 15 Jun 2017 15:55:53 API.py [line:421] INFO user_queue size 26
+Thu 15 Jun 2017 15:55:53 API.py [line:422] INFO start process None TVSRecreation
+Thu 15 Jun 2017 15:55:53 API.py [line:422] INFO start process None SoumerD
+Thu 15 Jun 2017 15:55:53 API.py [line:71] INFO value: None, TVSRecreation
+Thu 15 Jun 2017 15:55:53 API.py [line:71] INFO value: None, SoumerD
+Thu 15 Jun 2017 15:56:14 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:15 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:16 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:17 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:19 API.py [line:421] INFO user_queue size 25
+Thu 15 Jun 2017 15:56:19 API.py [line:422] INFO start process None SilverAgeTV
+Thu 15 Jun 2017 15:56:19 API.py [line:71] INFO value: None, SilverAgeTV
+Thu 15 Jun 2017 15:56:20 API.py [line:421] INFO user_queue size 24
+Thu 15 Jun 2017 15:56:20 API.py [line:422] INFO start process None AuntiePegg
+Thu 15 Jun 2017 15:56:20 API.py [line:71] INFO value: None, AuntiePegg
+Thu 15 Jun 2017 15:56:21 API.py [line:421] INFO user_queue size 23
+Thu 15 Jun 2017 15:56:21 API.py [line:422] INFO start process None Whoozthatgirl
+Thu 15 Jun 2017 15:56:21 API.py [line:71] INFO value: None, Whoozthatgirl
+Thu 15 Jun 2017 15:56:21 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:22 API.py [line:421] INFO user_queue size 22
+Thu 15 Jun 2017 15:56:22 API.py [line:422] INFO start process None cr4iin_
+Thu 15 Jun 2017 15:56:22 API.py [line:71] INFO value: None, cr4iin_
+Thu 15 Jun 2017 15:56:22 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:24 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:56:24 API.py [line:105] ERROR Twitter request failed
+Thu 15 Jun 2017 15:56:24 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Thu 15 Jun 2017 15:56:24 API.py [line:460] WARNING None cr4iin_ is not alive.
+Thu 15 Jun 2017 15:56:26 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:26 API.py [line:421] INFO user_queue size 21
+Thu 15 Jun 2017 15:56:26 API.py [line:422] INFO start process None GilbertHardly
+Thu 15 Jun 2017 15:56:26 API.py [line:71] INFO value: None, GilbertHardly
+Thu 15 Jun 2017 15:56:27 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:27 API.py [line:421] INFO user_queue size 20
+Thu 15 Jun 2017 15:56:27 API.py [line:422] INFO start process None StandardDef1
+Thu 15 Jun 2017 15:56:27 API.py [line:71] INFO value: None, StandardDef1
+Thu 15 Jun 2017 15:56:31 API.py [line:421] INFO user_queue size 19
+Thu 15 Jun 2017 15:56:31 API.py [line:422] INFO start process None keddyboomaleddy
+Thu 15 Jun 2017 15:56:31 API.py [line:71] INFO value: None, keddyboomaleddy
+Thu 15 Jun 2017 15:56:32 API.py [line:421] INFO user_queue size 18
+Thu 15 Jun 2017 15:56:32 API.py [line:422] INFO start process None TVHotties1000
+Thu 15 Jun 2017 15:56:32 API.py [line:71] INFO value: None, TVHotties1000
+Thu 15 Jun 2017 15:56:52 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:53 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:54 API.py [line:421] INFO user_queue size 17
+Thu 15 Jun 2017 15:56:54 API.py [line:422] INFO start process None HollywoodHides
+Thu 15 Jun 2017 15:56:54 API.py [line:71] INFO value: None, HollywoodHides
+Thu 15 Jun 2017 15:56:55 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:56:57 API.py [line:421] INFO user_queue size 16
+Thu 15 Jun 2017 15:56:57 API.py [line:422] INFO start process None FilmWestern
+Thu 15 Jun 2017 15:56:57 API.py [line:71] INFO value: None, FilmWestern
+Thu 15 Jun 2017 15:56:58 API.py [line:421] INFO user_queue size 15
+Thu 15 Jun 2017 15:56:58 API.py [line:422] INFO start process None RetroTV_Nerd
+Thu 15 Jun 2017 15:56:58 API.py [line:71] INFO value: None, RetroTV_Nerd
+Thu 15 Jun 2017 15:56:59 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:00 API.py [line:421] INFO user_queue size 14
+Thu 15 Jun 2017 15:57:00 API.py [line:422] INFO start process None ErnieKeeton
+Thu 15 Jun 2017 15:57:00 API.py [line:71] INFO value: None, ErnieKeeton
+Thu 15 Jun 2017 15:57:00 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:04 API.py [line:421] INFO user_queue size 13
+Thu 15 Jun 2017 15:57:04 API.py [line:422] INFO start process None tvmuseumpodcast
+Thu 15 Jun 2017 15:57:04 API.py [line:71] INFO value: None, tvmuseumpodcast
+Thu 15 Jun 2017 15:57:04 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:04 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:05 API.py [line:421] INFO user_queue size 12
+Thu 15 Jun 2017 15:57:05 API.py [line:422] INFO start process None HazelsBooth
+Thu 15 Jun 2017 15:57:05 API.py [line:71] INFO value: None, HazelsBooth
+Thu 15 Jun 2017 15:57:09 API.py [line:421] INFO user_queue size 11
+Thu 15 Jun 2017 15:57:09 API.py [line:422] INFO start process None TV_aholic
+Thu 15 Jun 2017 15:57:09 API.py [line:71] INFO value: None, TV_aholic
+Thu 15 Jun 2017 15:57:09 API.py [line:421] INFO user_queue size 10
+Thu 15 Jun 2017 15:57:09 API.py [line:422] INFO start process None bufvc_bob
+Thu 15 Jun 2017 15:57:09 API.py [line:71] INFO value: None, bufvc_bob
+Thu 15 Jun 2017 15:57:11 TwitterError.py [line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 15 Jun 2017 15:57:27 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:30 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:31 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:32 API.py [line:421] INFO user_queue size 9
+Thu 15 Jun 2017 15:57:32 API.py [line:422] INFO start process None shrewst
+Thu 15 Jun 2017 15:57:32 API.py [line:71] INFO value: None, shrewst
+Thu 15 Jun 2017 15:57:33 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:35 API.py [line:421] INFO user_queue size 8
+Thu 15 Jun 2017 15:57:35 API.py [line:422] INFO start process None Angel85Anne
+Thu 15 Jun 2017 15:57:35 API.py [line:71] INFO value: None, Angel85Anne
+Thu 15 Jun 2017 15:57:36 API.py [line:421] INFO user_queue size 7
+Thu 15 Jun 2017 15:57:36 API.py [line:422] INFO start process None BennyFoxmore
+Thu 15 Jun 2017 15:57:36 API.py [line:71] INFO value: None, BennyFoxmore
+Thu 15 Jun 2017 15:57:36 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:38 API.py [line:421] INFO user_queue size 6
+Thu 15 Jun 2017 15:57:38 API.py [line:422] INFO start process None blakes_7
+Thu 15 Jun 2017 15:57:38 API.py [line:71] INFO value: None, blakes_7
+Thu 15 Jun 2017 15:57:40 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:41 API.py [line:421] INFO user_queue size 5
+Thu 15 Jun 2017 15:57:41 API.py [line:422] INFO start process None monkjona
+Thu 15 Jun 2017 15:57:41 API.py [line:71] INFO value: None, monkjona
+Thu 15 Jun 2017 15:57:41 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:44 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:57:45 API.py [line:421] INFO user_queue size 4
+Thu 15 Jun 2017 15:57:45 API.py [line:422] INFO start process None miamigomusic
+Thu 15 Jun 2017 15:57:45 API.py [line:71] INFO value: None, miamigomusic
+Thu 15 Jun 2017 15:57:46 API.py [line:421] INFO user_queue size 3
+Thu 15 Jun 2017 15:57:46 API.py [line:422] INFO start process None karyns_world
+Thu 15 Jun 2017 15:57:46 API.py [line:71] INFO value: None, karyns_world
+Thu 15 Jun 2017 15:57:49 API.py [line:421] INFO user_queue size 2
+Thu 15 Jun 2017 15:57:49 API.py [line:422] INFO start process None divajulieann
+Thu 15 Jun 2017 15:57:49 API.py [line:71] INFO value: None, divajulieann
+Thu 15 Jun 2017 15:58:05 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:58:07 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:58:09 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:58:10 API.py [line:421] INFO user_queue size 1
+Thu 15 Jun 2017 15:58:10 API.py [line:422] INFO start process None smallstory
+Thu 15 Jun 2017 15:58:10 API.py [line:71] INFO value: None, smallstory
+Thu 15 Jun 2017 15:58:11 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:58:12 API.py [line:421] INFO user_queue size 0
+Thu 15 Jun 2017 15:58:12 API.py [line:422] INFO start process None onlywayissunnyg
+Thu 15 Jun 2017 15:58:12 API.py [line:71] INFO value: None, onlywayissunnyg
+Thu 15 Jun 2017 15:58:14 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:58:19 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:58:19 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:58:21 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:58:44 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 
+Thu 15 Jun 2017 15:58:44 API.py [line:484] ERROR 222.197.180.150:27017: [Errno 10061] 

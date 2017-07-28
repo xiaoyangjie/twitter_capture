@@ -1,0 +1,41 @@
+Thu 15 Jun 2017 15:42:21 API.py [line:356] INFO start.
+Thu 15 Jun 2017 15:42:23 API.py [line:411] INFO thread 0 start.
+Thu 15 Jun 2017 15:42:23 API.py [line:411] INFO thread 1 start.
+Thu 15 Jun 2017 15:42:23 API.py [line:411] INFO thread 2 start.
+Thu 15 Jun 2017 15:42:23 API.py [line:414] INFO thread 0's token_index 435
+Thu 15 Jun 2017 15:42:23 API.py [line:411] INFO thread 3 start.
+Thu 15 Jun 2017 15:42:23 API.py [line:411] INFO thread 4 start.
+Thu 15 Jun 2017 15:42:23 API.py [line:414] INFO thread 1's token_index 358
+Thu 15 Jun 2017 15:42:23 API.py [line:411] INFO thread 5 start.
+Thu 15 Jun 2017 15:42:23 API.py [line:414] INFO thread 2's token_index 33
+Thu 15 Jun 2017 15:42:23 API.py [line:411] INFO thread 6 start.
+Thu 15 Jun 2017 15:42:23 API.py [line:411] INFO thread 7 start.
+Thu 15 Jun 2017 15:42:23 API.py [line:421] INFO user_queue size 199
+Thu 15 Jun 2017 15:42:23 API.py [line:414] INFO thread 3's token_index 156
+Thu 15 Jun 2017 15:42:23 API.py [line:414] INFO thread 4's token_index 174
+Thu 15 Jun 2017 15:42:23 API.py [line:421] INFO user_queue size 198
+Thu 15 Jun 2017 15:42:23 API.py [line:414] INFO thread 5's token_index 38
+Thu 15 Jun 2017 15:42:23 API.py [line:421] INFO user_queue size 197
+Thu 15 Jun 2017 15:42:23 API.py [line:414] INFO thread 6's token_index 152
+Thu 15 Jun 2017 15:42:23 API.py [line:414] INFO thread 7's token_index 318
+Thu 15 Jun 2017 15:42:23 API.py [line:422] INFO start process None the100
+Thu 15 Jun 2017 15:42:23 API.py [line:421] INFO user_queue size 196
+Thu 15 Jun 2017 15:42:23 API.py [line:421] INFO user_queue size 195
+Thu 15 Jun 2017 15:42:23 API.py [line:422] INFO start process None WaterlooRoadTV
+Thu 15 Jun 2017 15:42:23 API.py [line:421] INFO user_queue size 194
+Thu 15 Jun 2017 15:42:23 API.py [line:422] INFO start process None HowlingMadMo
+Thu 15 Jun 2017 15:42:23 API.py [line:421] INFO user_queue size 193
+Thu 15 Jun 2017 15:42:23 API.py [line:421] INFO user_queue size 192
+Thu 15 Jun 2017 15:42:23 API.py [line:71] INFO value: None, the100
+Thu 15 Jun 2017 15:42:23 API.py [line:422] INFO start process None UKinLatvia
+Thu 15 Jun 2017 15:42:23 API.py [line:422] INFO start process None StuartTorevell
+Thu 15 Jun 2017 15:42:23 API.py [line:71] INFO value: None, WaterlooRoadTV
+Thu 15 Jun 2017 15:42:23 API.py [line:422] INFO start process None BakeOffBanter
+Thu 15 Jun 2017 15:42:23 API.py [line:71] INFO value: None, HowlingMadMo
+Thu 15 Jun 2017 15:42:23 API.py [line:422] INFO start process None sarahjaynedunn
+Thu 15 Jun 2017 15:42:23 API.py [line:422] INFO start process None ClicksClan
+Thu 15 Jun 2017 15:42:23 API.py [line:71] INFO value: None, UKinLatvia
+Thu 15 Jun 2017 15:42:23 API.py [line:71] INFO value: None, StuartTorevell
+Thu 15 Jun 2017 15:42:23 API.py [line:71] INFO value: None, BakeOffBanter
+Thu 15 Jun 2017 15:42:23 API.py [line:71] INFO value: None, sarahjaynedunn
+Thu 15 Jun 2017 15:42:23 API.py [line:71] INFO value: None, ClicksClan

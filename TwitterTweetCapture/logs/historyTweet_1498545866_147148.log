@@ -1,0 +1,92 @@
+Tue 27 Jun 2017 14:44:27 API.py [line:356] INFO start.
+Tue 27 Jun 2017 14:44:27 API.py [line:411] INFO thread 0 start.
+Tue 27 Jun 2017 14:44:27 API.py [line:411] INFO thread 1 start.
+Tue 27 Jun 2017 14:44:27 API.py [line:411] INFO thread 2 start.
+Tue 27 Jun 2017 14:44:27 API.py [line:411] INFO thread 3 start.
+Tue 27 Jun 2017 14:44:27 API.py [line:414] INFO thread 0's token_index 90
+Tue 27 Jun 2017 14:44:27 API.py [line:411] INFO thread 4 start.
+Tue 27 Jun 2017 14:44:27 API.py [line:411] INFO thread 5 start.
+Tue 27 Jun 2017 14:44:27 API.py [line:414] INFO thread 1's token_index 255
+Tue 27 Jun 2017 14:44:27 API.py [line:411] INFO thread 6 start.
+Tue 27 Jun 2017 14:44:27 API.py [line:414] INFO thread 2's token_index 278
+Tue 27 Jun 2017 14:44:27 API.py [line:414] INFO thread 3's token_index 343
+Tue 27 Jun 2017 14:44:27 API.py [line:411] INFO thread 7 start.
+Tue 27 Jun 2017 14:44:27 API.py [line:414] INFO thread 4's token_index 172
+Tue 27 Jun 2017 14:44:27 API.py [line:421] INFO user_queue size 199
+Tue 27 Jun 2017 14:44:27 API.py [line:414] INFO thread 5's token_index 260
+Tue 27 Jun 2017 14:44:27 API.py [line:414] INFO thread 6's token_index 169
+Tue 27 Jun 2017 14:44:27 API.py [line:421] INFO user_queue size 198
+Tue 27 Jun 2017 14:44:27 API.py [line:421] INFO user_queue size 197
+Tue 27 Jun 2017 14:44:27 API.py [line:421] INFO user_queue size 196
+Tue 27 Jun 2017 14:44:27 API.py [line:414] INFO thread 7's token_index 414
+Tue 27 Jun 2017 14:44:27 API.py [line:421] INFO user_queue size 195
+Tue 27 Jun 2017 14:44:27 API.py [line:422] INFO start process None ruddick
+Tue 27 Jun 2017 14:44:27 API.py [line:421] INFO user_queue size 194
+Tue 27 Jun 2017 14:44:27 API.py [line:421] INFO user_queue size 193
+Tue 27 Jun 2017 14:44:27 API.py [line:422] INFO start process None Crowdpac
+Tue 27 Jun 2017 14:44:27 API.py [line:422] INFO start process None AndrewIConnell
+Tue 27 Jun 2017 14:44:27 API.py [line:422] INFO start process None WoutervD
+Tue 27 Jun 2017 14:44:27 API.py [line:422] INFO start process None HowieShawki
+Tue 27 Jun 2017 14:44:27 API.py [line:421] INFO user_queue size 192
+Tue 27 Jun 2017 14:44:27 API.py [line:71] INFO value: None, ruddick
+Tue 27 Jun 2017 14:44:27 API.py [line:422] INFO start process None LaurieHanna
+Tue 27 Jun 2017 14:44:27 API.py [line:422] INFO start process None dawngreenan
+Tue 27 Jun 2017 14:44:27 API.py [line:71] INFO value: None, Crowdpac
+Tue 27 Jun 2017 14:44:27 API.py [line:71] INFO value: None, AndrewIConnell
+Tue 27 Jun 2017 14:44:27 API.py [line:71] INFO value: None, WoutervD
+Tue 27 Jun 2017 14:44:27 API.py [line:71] INFO value: None, HowieShawki
+Tue 27 Jun 2017 14:44:27 API.py [line:422] INFO start process None erin_perrin
+Tue 27 Jun 2017 14:44:27 API.py [line:71] INFO value: None, LaurieHanna
+Tue 27 Jun 2017 14:44:27 API.py [line:71] INFO value: None, dawngreenan
+Tue 27 Jun 2017 14:44:27 API.py [line:71] INFO value: None, erin_perrin
+Tue 27 Jun 2017 14:44:58 API.py [line:505] INFO None AndrewIConnell total insert 500 tweets. duplicate 0 tweets.
+Tue 27 Jun 2017 14:44:58 API.py [line:421] INFO user_queue size 191
+Tue 27 Jun 2017 14:44:58 API.py [line:422] INFO start process None RosemaryGolding
+Tue 27 Jun 2017 14:44:58 API.py [line:71] INFO value: None, RosemaryGolding
+Tue 27 Jun 2017 14:44:59 API.py [line:505] INFO None WoutervD total insert 500 tweets. duplicate 0 tweets.
+Tue 27 Jun 2017 14:44:59 API.py [line:421] INFO user_queue size 190
+Tue 27 Jun 2017 14:44:59 API.py [line:422] INFO start process None davidtanner43
+Tue 27 Jun 2017 14:44:59 API.py [line:71] INFO value: None, davidtanner43
+Tue 27 Jun 2017 14:44:59 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Tue 27 Jun 2017 14:44:59 API.py [line:105] ERROR Twitter request failed
+Tue 27 Jun 2017 14:44:59 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Tue 27 Jun 2017 14:44:59 API.py [line:460] WARNING None RosemaryGolding is not alive.
+Tue 27 Jun 2017 14:44:59 API.py [line:421] INFO user_queue size 189
+Tue 27 Jun 2017 14:44:59 API.py [line:422] INFO start process None Mule_1960
+Tue 27 Jun 2017 14:44:59 API.py [line:71] INFO value: None, Mule_1960
+Tue 27 Jun 2017 14:44:59 API.py [line:505] INFO None LaurieHanna total insert 500 tweets. duplicate 0 tweets.
+Tue 27 Jun 2017 14:44:59 API.py [line:421] INFO user_queue size 188
+Tue 27 Jun 2017 14:44:59 API.py [line:422] INFO start process None limidoh38
+Tue 27 Jun 2017 14:44:59 API.py [line:71] INFO value: None, limidoh38
+Tue 27 Jun 2017 14:45:02 API.py [line:505] INFO None dawngreenan total insert 500 tweets. duplicate 0 tweets.
+Tue 27 Jun 2017 14:45:02 API.py [line:421] INFO user_queue size 187
+Tue 27 Jun 2017 14:45:02 API.py [line:422] INFO start process None CLGooch
+Tue 27 Jun 2017 14:45:02 API.py [line:71] INFO value: None, CLGooch
+Tue 27 Jun 2017 14:45:04 API.py [line:505] INFO None Crowdpac total insert 500 tweets. duplicate 0 tweets.
+Tue 27 Jun 2017 14:45:04 API.py [line:421] INFO user_queue size 186
+Tue 27 Jun 2017 14:45:04 API.py [line:422] INFO start process None STRADDLING49
+Tue 27 Jun 2017 14:45:04 API.py [line:71] INFO value: None, STRADDLING49
+Tue 27 Jun 2017 14:45:04 API.py [line:505] INFO None ruddick total insert 500 tweets. duplicate 0 tweets.
+Tue 27 Jun 2017 14:45:04 API.py [line:421] INFO user_queue size 185
+Tue 27 Jun 2017 14:45:04 API.py [line:422] INFO start process None Divveyfallfan
+Tue 27 Jun 2017 14:45:04 API.py [line:71] INFO value: None, Divveyfallfan
+Tue 27 Jun 2017 14:45:06 API.py [line:505] INFO None HowieShawki total insert 500 tweets. duplicate 0 tweets.
+Tue 27 Jun 2017 14:45:06 API.py [line:421] INFO user_queue size 184
+Tue 27 Jun 2017 14:45:06 API.py [line:422] INFO start process None AndyReganCDF
+Tue 27 Jun 2017 14:45:06 API.py [line:71] INFO value: None, AndyReganCDF
+Tue 27 Jun 2017 14:45:08 TwitterError.py [line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Tue 27 Jun 2017 14:45:08 API.py [line:505] INFO None erin_perrin total insert 500 tweets. duplicate 0 tweets.
+Tue 27 Jun 2017 14:45:08 API.py [line:421] INFO user_queue size 183
+Tue 27 Jun 2017 14:45:08 API.py [line:422] INFO start process None 66Betty
+Tue 27 Jun 2017 14:45:08 API.py [line:71] INFO value: None, 66Betty
+Tue 27 Jun 2017 14:45:18 API.py [line:505] INFO None STRADDLING49 total insert 108 tweets. duplicate 0 tweets.
+Tue 27 Jun 2017 14:45:18 API.py [line:421] INFO user_queue size 182
+Tue 27 Jun 2017 14:45:18 API.py [line:422] INFO start process None Juansane00
+Tue 27 Jun 2017 14:45:18 API.py [line:71] INFO value: None, Juansane00
+Tue 27 Jun 2017 14:45:20 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Tue 27 Jun 2017 14:45:20 API.py [line:105] ERROR Twitter request failed
+Tue 27 Jun 2017 14:45:20 TwitterError.py [line:34] INFO Status code 404: Twitter request failed
+Tue 27 Jun 2017 14:45:20 API.py [line:460] WARNING None Juansane00 is not alive.
+Tue 27 Jun 2017 14:45:20 API.py [line:421] INFO user_queue size 181
+Tue 27 Jun 2017 14:45:20 API.py [line:422] INFO start process None AlanCamSport
+Tue 27 Jun 2017 14:45:20 API.py [line:71] INFO value: None, AlanCamSport

@@ -1,0 +1,43 @@
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 0's token_index 137
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 1's token_index 118
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 2's token_index 203
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 3's token_index 434
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 4's token_index 25
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 5's token_index 314
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 6's token_index 101
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 7's token_index 252
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 8's token_index 238
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 9's token_index 324
+Thu 25 May 2017 16:00:09 API.py[line:547] INFO 200 statuses/filter text thread 10's token_index 285
+Thu 25 May 2017 16:00:19 TwitterError.py[line:22] WARNING 400 statuses/filter text ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 16:00:19 API.py[line:207] WARNING ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 16:00:19 TwitterError.py[line:22] WARNING 400 statuses/filter text ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 16:00:19 API.py[line:207] WARNING ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 16:00:19 TwitterError.py[line:22] WARNING 400 statuses/filter text ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 16:00:19 API.py[line:207] WARNING ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 16:00:35 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'47316108', u'user_id': 47316108, u'id': 867633730910801921L, u'id_str': u'867633730910801921'}, u'timestamp_ms': u'1495699232341'}}
+Thu 25 May 2017 16:01:03 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'380921946', u'user_id': 380921946, u'id': 867008967314034688L, u'id_str': u'867008967314034688'}, u'timestamp_ms': u'1495699261260'}}
+Thu 25 May 2017 16:01:12 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'2758348000', u'user_id': 2758348000L, u'id': 867650535305994240L, u'id_str': u'867650535305994240'}, u'timestamp_ms': u'1495699265860'}}
+Thu 25 May 2017 16:01:17 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'19386312', u'user_id': 19386312, u'id': 867470339462369280L, u'id_str': u'867470339462369280'}, u'timestamp_ms': u'1495699273777'}}
+Thu 25 May 2017 16:01:26 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'23620775', u'user_id': 23620775, u'id': 867651341698596864L, u'id_str': u'867651341698596864'}, u'timestamp_ms': u'1495699264469'}}
+Thu 25 May 2017 16:01:27 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'243381107', u'user_id': 243381107, u'id': 867651158088855553L, u'id_str': u'867651158088855553'}, u'timestamp_ms': u'1495699263945'}}
+Thu 25 May 2017 16:01:28 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'44596346', u'user_id': 44596346, u'id': 867648331643801601L, u'id_str': u'867648331643801601'}, u'timestamp_ms': u'1495699241902'}}
+Thu 25 May 2017 16:01:29 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'2436389418', u'user_id': 2436389418L, u'id': 867645646660087808L, u'id_str': u'867645646660087808'}, u'timestamp_ms': u'1495699283924'}}
+Thu 25 May 2017 16:01:35 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'2436389418', u'user_id': 2436389418L, u'id': 867646919249715200L, u'id_str': u'867646919249715200'}, u'timestamp_ms': u'1495699287214'}}
+Thu 25 May 2017 16:01:35 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'19386312', u'user_id': 19386312, u'id': 867643523444736000L, u'id_str': u'867643523444736000'}, u'timestamp_ms': u'1495699288900'}}
+Thu 25 May 2017 16:01:36 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'47316108', u'user_id': 47316108, u'id': 867513037975994371L, u'id_str': u'867513037975994371'}, u'timestamp_ms': u'1495699294050'}}
+Thu 25 May 2017 16:01:37 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'2436389418', u'user_id': 2436389418L, u'id': 867647466581241857L, u'id_str': u'867647466581241857'}, u'timestamp_ms': u'1495699293389'}}
+Thu 25 May 2017 16:01:41 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'2436389418', u'user_id': 2436389418L, u'id': 867648215751024640L, u'id_str': u'867648215751024640'}, u'timestamp_ms': u'1495699297470'}}
+Thu 25 May 2017 16:01:43 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'2436389418', u'user_id': 2436389418L, u'id': 867649435513352192L, u'id_str': u'867649435513352192'}, u'timestamp_ms': u'1495699300412'}}
+Thu 25 May 2017 16:01:46 TwitterError.py[line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out. (read timeout=90)
+Thu 25 May 2017 16:01:46 API.py[line:207] WARNING HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out. (read timeout=90)
+Thu 25 May 2017 16:01:47 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'2436389418', u'user_id': 2436389418L, u'id': 867649967678267393L, u'id_str': u'867649967678267393'}, u'timestamp_ms': u'1495699303265'}}
+Thu 25 May 2017 16:01:51 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'2436389418', u'user_id': 2436389418L, u'id': 867651005621698560L, u'id_str': u'867651005621698560'}, u'timestamp_ms': u'1495699306956'}}
+Thu 25 May 2017 16:01:56 TwitterError.py[line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 16:01:56 API.py[line:207] WARNING ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 16:01:57 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'2436389418', u'user_id': 2436389418L, u'id': 867651485156470784L, u'id_str': u'867651485156470784'}, u'timestamp_ms': u'1495699313340'}}
+Thu 25 May 2017 16:02:06 TwitterError.py[line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 16:02:06 API.py[line:207] WARNING ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 16:02:06 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'68742579', u'user_id': 68742579, u'id': 867651856893444096L, u'id_str': u'867651856893444096'}, u'timestamp_ms': u'1495699299282'}}
+Thu 25 May 2017 16:02:11 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'3238560639', u'user_id': 3238560639L, u'id': 867651957112143872L, u'id_str': u'867651957112143872'}, u'timestamp_ms': u'1495699328905'}}
+Thu 25 May 2017 16:02:25 API.py[line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'1267477128', u'user_id': 1267477128, u'id': 814810930970296320L, u'id_str': u'814810930970296320'}, u'timestamp_ms': u'1495699335771'}}

@@ -1,0 +1,8 @@
+{
+ "userHost": "mongodb://192.168.178.218:27017,192.168.178.220:27017/?replicaSet=shard1",
+ "userDatabase": "test", 
+ "userCollection": "User",
+ "proxyList": ["192.168.178.149:9090", "192.168.178.150:9090","192.168.178.151:9090"], 
+ "screenNameList": null,
+ "accountIdList": null
+ }

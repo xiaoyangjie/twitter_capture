@@ -1,0 +1,13 @@
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 0's token_index 358
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 1's token_index 504
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 2's token_index 267
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 3's token_index 326
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 4's token_index 62
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 5's token_index 280
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 6's token_index 72
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 7's token_index 379
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 8's token_index 486
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 9's token_index 357
+Thu 25 May 2017 15:58:30 API.py[line:548] INFO 200 statuses/filter text thread 10's token_index 101
+Thu 25 May 2017 15:58:41 TwitterError.py[line:22] WARNING 400 statuses/filter text ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 15:58:41 API.py[line:207] WARNING ('Connection aborted.', BadStatusLine("''",))

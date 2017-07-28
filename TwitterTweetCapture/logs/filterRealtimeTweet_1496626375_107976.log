@@ -1,0 +1,12 @@
+Mon 05 Jun 2017 09:32:55 API.py [line:603] INFO start
+Mon 05 Jun 2017 09:32:55 API.py [line:635] INFO thread 0 start.
+Mon 05 Jun 2017 09:32:55 API.py [line:638] INFO thread 0's token_index 403
+Mon 05 Jun 2017 09:32:55 API.py [line:639] INFO {u'access_token': u'721325652150849536-8dPu4p8CXdCpqg945DyBfZDdnbzieYe', u'consumer_secret': u'LivsS9DTKh4Xmfo2vOG2tpKmrj8lxsYqiDgZLamPBJahFqnjUo', u'consumer_key': u'fO4lXV6LLz5e1Ew6uRDtvXpIQ', u'access_token_secret': u'XsOoVKvbdONtBikWQ74Di73BqmfTR1u964O0RCij6iFAb'}
+Mon 05 Jun 2017 09:32:55 API.py [line:640] INFO ['terrorism, kill, dead, bomb, shoot,shooting,die,died,terrorist,died']
+Mon 05 Jun 2017 09:32:55 API.py [line:641] INFO ['222,197.180.150:8118']
+Mon 05 Jun 2017 09:32:55 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', gaierror(11004, 'getaddrinfo failed')))
+Mon 05 Jun 2017 09:32:55 API.py [line:207] WARNING HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', gaierror(11004, 'getaddrinfo failed')))
+Mon 05 Jun 2017 09:33:00 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', gaierror(11004, 'getaddrinfo failed')))
+Mon 05 Jun 2017 09:33:00 API.py [line:207] WARNING HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', gaierror(11004, 'getaddrinfo failed')))
+Mon 05 Jun 2017 09:33:05 TwitterError.py [line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', gaierror(11004, 'getaddrinfo failed')))
+Mon 05 Jun 2017 09:33:05 API.py [line:207] WARNING HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', gaierror(11004, 'getaddrinfo failed')))

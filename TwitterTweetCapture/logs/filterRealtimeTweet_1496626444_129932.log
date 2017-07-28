@@ -1,0 +1,7 @@
+Mon 05 Jun 2017 09:34:06 API.py [line:603] INFO start
+Mon 05 Jun 2017 09:34:06 API.py [line:635] INFO thread 0 start.
+Mon 05 Jun 2017 09:34:06 API.py [line:638] INFO thread 0's token_index 496
+Mon 05 Jun 2017 09:34:06 API.py [line:639] INFO {u'access_token': u'724888354437865472-Q8Q31In2I5Ldc6lTzpA8WY1PRCLJG9y', u'consumer_secret': u'LivsS9DTKh4Xmfo2vOG2tpKmrj8lxsYqiDgZLamPBJahFqnjUo', u'consumer_key': u'fO4lXV6LLz5e1Ew6uRDtvXpIQ', u'access_token_secret': u'Z9VKSgKSHhsDYjhZ6OCCBHi6Iij7q5L6s8wDKkTUR9KcB'}
+Mon 05 Jun 2017 09:34:06 API.py [line:640] INFO ['terrorism, kill, dead, bomb, shoot,shooting,die,died,terrorist,died']
+Mon 05 Jun 2017 09:34:06 API.py [line:641] INFO ['222.197.180.150:8118']
+Mon 05 Jun 2017 09:34:45 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 192.168.178.46

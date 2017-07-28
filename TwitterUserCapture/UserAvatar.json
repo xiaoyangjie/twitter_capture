@@ -1,0 +1,10 @@
+{
+ "userHost": "mongodb://192.168.178.218:27017,192.168.178.220:27017/?replicaSet=shard1",
+ "userDatabase": "test", 
+ "userCollection": "User",
+ "proxyList": ["192.168.178.150:9090"], 
+ "hbaseThriftHost" : "192.168.178.212",
+ "hbaseThriftPort" : 9090,
+ "hbaseTableName" : "linuxtest",
+ "picture_type" : "avatar"
+ }

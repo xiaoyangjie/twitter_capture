@@ -1,0 +1,715 @@
+Mon 26 Jun 2017 09:39:09 API.py [line:356] INFO start.
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:09 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:10 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:11 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:12 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:13 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 6 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 3's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 7 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 4's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 5's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 6's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 7's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 0 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 1 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 2 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 3 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 1's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 4 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:414] INFO thread 2's token_index 0
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 5 start.
+Mon 26 Jun 2017 09:39:14 API.py [line:411] INFO thread 6 start.

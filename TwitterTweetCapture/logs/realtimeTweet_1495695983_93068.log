@@ -1,0 +1,24 @@
+Thu 25 May 2017 15:06:31 API.py[line:508] INFO statuses/filter	text	start
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 0 start.
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 1 start.
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 2 start.
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 3 start.
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 0's token_index 45
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 4 start.
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 5 start.
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 1's token_index 359
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 6 start.
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 2's token_index 459
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 7 start.
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 3's token_index 414
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 9 start.
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 8 start.
+Thu 25 May 2017 15:06:32 API.py[line:543] INFO statuses/filter	text	thread 10 start.
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 4's token_index 21
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 5's token_index 270
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 6's token_index 489
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 7's token_index 254
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 9's token_index 131
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 8's token_index 184
+Thu 25 May 2017 15:06:32 API.py[line:546] INFO statuses/filter	text	thread 10's token_index 387
+Thu 25 May 2017 15:07:35 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com

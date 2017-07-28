@@ -1,0 +1,41 @@
+Fri 02 Jun 2017 10:23:43 API.py [line:356] INFO start.
+Fri 02 Jun 2017 10:23:43 API.py [line:411] INFO thread 0 start.
+Fri 02 Jun 2017 10:23:43 API.py [line:411] INFO thread 1 start.
+Fri 02 Jun 2017 10:23:43 API.py [line:411] INFO thread 2 start.
+Fri 02 Jun 2017 10:23:43 API.py [line:414] INFO thread 0's token_index 353
+Fri 02 Jun 2017 10:23:43 API.py [line:411] INFO thread 3 start.
+Fri 02 Jun 2017 10:23:43 API.py [line:414] INFO thread 1's token_index 127
+Fri 02 Jun 2017 10:23:43 API.py [line:411] INFO thread 4 start.
+Fri 02 Jun 2017 10:23:43 API.py [line:414] INFO thread 2's token_index 325
+Fri 02 Jun 2017 10:23:43 API.py [line:411] INFO thread 5 start.
+Fri 02 Jun 2017 10:23:43 API.py [line:411] INFO thread 6 start.
+Fri 02 Jun 2017 10:23:43 API.py [line:411] INFO thread 7 start.
+Fri 02 Jun 2017 10:23:43 API.py [line:414] INFO thread 3's token_index 413
+Fri 02 Jun 2017 10:23:43 API.py [line:421] INFO user_queue size 199
+Fri 02 Jun 2017 10:23:43 API.py [line:421] INFO user_queue size 198
+Fri 02 Jun 2017 10:23:43 API.py [line:414] INFO thread 4's token_index 444
+Fri 02 Jun 2017 10:23:43 API.py [line:421] INFO user_queue size 197
+Fri 02 Jun 2017 10:23:43 API.py [line:414] INFO thread 5's token_index 163
+Fri 02 Jun 2017 10:23:43 API.py [line:414] INFO thread 6's token_index 193
+Fri 02 Jun 2017 10:23:43 API.py [line:414] INFO thread 7's token_index 475
+Fri 02 Jun 2017 10:23:43 API.py [line:421] INFO user_queue size 196
+Fri 02 Jun 2017 10:23:43 API.py [line:422] INFO start process None laquintabuzz
+Fri 02 Jun 2017 10:23:43 API.py [line:422] INFO start process None Paris_Journal
+Fri 02 Jun 2017 10:23:43 API.py [line:421] INFO user_queue size 195
+Fri 02 Jun 2017 10:23:43 API.py [line:422] INFO start process None arlingtonvabuzz
+Fri 02 Jun 2017 10:23:43 API.py [line:421] INFO user_queue size 194
+Fri 02 Jun 2017 10:23:43 API.py [line:421] INFO user_queue size 193
+Fri 02 Jun 2017 10:23:43 API.py [line:421] INFO user_queue size 192
+Fri 02 Jun 2017 10:23:43 API.py [line:422] INFO start process None DowntownHOUNews
+Fri 02 Jun 2017 10:23:43 API.py [line:71] INFO value: None, laquintabuzz
+Fri 02 Jun 2017 10:23:43 API.py [line:71] INFO value: None, Paris_Journal
+Fri 02 Jun 2017 10:23:43 API.py [line:422] INFO start process None BreakingWHnews
+Fri 02 Jun 2017 10:23:43 API.py [line:71] INFO value: None, arlingtonvabuzz
+Fri 02 Jun 2017 10:23:43 API.py [line:422] INFO start process None pacificanews
+Fri 02 Jun 2017 10:23:43 API.py [line:422] INFO start process None CarlaKJohnson
+Fri 02 Jun 2017 10:23:43 API.py [line:422] INFO start process None edibreakingnews
+Fri 02 Jun 2017 10:23:43 API.py [line:71] INFO value: None, DowntownHOUNews
+Fri 02 Jun 2017 10:23:43 API.py [line:71] INFO value: None, BreakingWHnews
+Fri 02 Jun 2017 10:23:43 API.py [line:71] INFO value: None, pacificanews
+Fri 02 Jun 2017 10:23:43 API.py [line:71] INFO value: None, CarlaKJohnson
+Fri 02 Jun 2017 10:23:43 API.py [line:71] INFO value: None, edibreakingnews

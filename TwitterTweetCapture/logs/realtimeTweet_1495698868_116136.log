@@ -1,0 +1,25 @@
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 0's token_index 346
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 1's token_index 116
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 2's token_index 515
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 3's token_index 357
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 4's token_index 40
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 5's token_index 139
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 6's token_index 139
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 7's token_index 471
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 8's token_index 90
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 9's token_index 267
+Thu 25 May 2017 15:54:30 API.py[line:546] INFO 200 statuses/filter text thread 10's token_index 182
+Thu 25 May 2017 15:54:39 TwitterError.py[line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:54:39 API.py[line:207] WARNING ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:54:39 TwitterError.py[line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:54:39 API.py[line:207] WARNING ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:54:39 TwitterError.py[line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:54:39 TwitterError.py[line:22] WARNING 400 statuses/filter text ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:54:39 API.py[line:207] WARNING ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:54:39 API.py[line:207] WARNING ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:54:50 TwitterError.py[line:22] WARNING 400 statuses/filter text ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 15:54:50 API.py[line:207] WARNING ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 15:55:00 TwitterError.py[line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Thu 25 May 2017 15:55:00 API.py[line:207] WARNING HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Thu 25 May 2017 15:55:11 TwitterError.py[line:22] WARNING 400 statuses/filter text ('Connection aborted.', BadStatusLine("''",))
+Thu 25 May 2017 15:55:11 API.py[line:207] WARNING ('Connection aborted.', BadStatusLine("''",))

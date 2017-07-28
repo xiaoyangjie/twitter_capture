@@ -1,0 +1,4 @@
+Mon 26 Jun 2017 09:37:17 API.py [line:611] INFO start
+Mon 26 Jun 2017 09:37:17 API.py [line:643] INFO thread 0 start.
+Mon 26 Jun 2017 09:37:17 API.py [line:646] INFO thread 0's token_index 0
+Mon 26 Jun 2017 09:37:17 API.py [line:631] INFO finish

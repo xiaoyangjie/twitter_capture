@@ -1,0 +1,13 @@
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 0's token_index 372
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 1's token_index 49
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 2's token_index 473
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 3's token_index 210
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 4's token_index 157
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 5's token_index 393
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 6's token_index 2
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 7's token_index 81
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 8's token_index 225
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 9's token_index 32
+Thu 25 May 2017 15:51:02 API.py[line:546] INFO 200 statuses/filter text thread 10's token_index 218
+Thu 25 May 2017 15:53:39 TwitterError.py[line:22] WARNING 400 statuses/filter text HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out. (read timeout=90)
+Thu 25 May 2017 15:53:44 API.py[line:207] WARNING HTTPSConnectionPool(host='stream.twitter.com', port=443): Read timed out. (read timeout=90)

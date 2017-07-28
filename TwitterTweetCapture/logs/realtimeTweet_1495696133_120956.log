@@ -1,0 +1,39 @@
+Thu 25 May 2017 15:08:54 API.py[line:508] INFO statuses/filter	text	start
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 0 start.
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 1 start.
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 2 start.
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 0's token_index 256
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 3 start.
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 1's token_index 404
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 4 start.
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 5 start.
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 2's token_index 143
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 6 start.
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 7 start.
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 3's token_index 429
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 8 start.
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 9 start.
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 4's token_index 376
+Thu 25 May 2017 15:08:55 API.py[line:543] INFO statuses/filter	text	thread 10 start.
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 5's token_index 44
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 6's token_index 63
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 7's token_index 270
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 8's token_index 405
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 9's token_index 434
+Thu 25 May 2017 15:08:55 API.py[line:546] INFO statuses/filter	text	thread 10's token_index 462
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:08:57 connectionpool.py[line:735] INFO Starting new HTTPS connection (1): stream.twitter.com
+Thu 25 May 2017 15:09:03 TwitterError.py[line:21] WARNING <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:09:03 TwitterError.py[line:21] WARNING <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:09:03 TwitterError.py[line:21] WARNING <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:09:03 TwitterError.py[line:21] WARNING <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)
+Thu 25 May 2017 15:09:08 TwitterError.py[line:21] WARNING <class 'requests.exceptions.SSLError'> ('_ssl.c:645: The handshake operation timed out',)

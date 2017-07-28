@@ -1,0 +1,17 @@
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 0's token_index 103
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 1's token_index 349
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 2's token_index 104
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 3's token_index 251
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 4's token_index 493
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 5's token_index 219
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 6's token_index 103
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 7's token_index 82
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 8's token_index 421
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 9's token_index 294
+Sat 27 May 2017 16:03:07 API.py [line:547] INFO 200 statuses/filter text thread 10's token_index 459
+Sat 27 May 2017 16:03:19 TwitterError.py [line:21] WARNING <class 'requests.exceptions.ConnectionError'> HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Sat 27 May 2017 16:03:22 API.py [line:208] WARNING HTTPSConnectionPool(host='stream.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/filter.json (Caused by ProxyError('Cannot connect to proxy.', timeout('timed out',)))
+Sat 27 May 2017 16:03:34 API.py [line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'20015311', u'user_id': 20015311, u'id': 868234109465874433L, u'id_str': u'868234109465874433'}, u'timestamp_ms': u'1495872210512'}}
+Sat 27 May 2017 16:03:43 API.py [line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'20015311', u'user_id': 20015311, u'id': 868234155003453440L, u'id_str': u'868234155003453440'}, u'timestamp_ms': u'1495872219498'}}
+Sat 27 May 2017 16:04:32 API.py [line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'4332430936', u'user_id': 4332430936L, u'id': 868365466938376192L, u'id_str': u'868365466938376192'}, u'timestamp_ms': u'1495872244148'}}
+Sat 27 May 2017 16:04:46 API.py [line:223] ERROR 400 statuses/filter text {u'delete': {u'status': {u'user_id_str': u'569581021', u'user_id': 569581021, u'id': 866513112286896128L, u'id_str': u'866513112286896128'}, u'timestamp_ms': u'1495872241383'}}

@@ -1,0 +1,11 @@
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 0's token_index 62
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 1's token_index 181
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 2's token_index 420
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 3's token_index 271
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 4's token_index 299
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 5's token_index 173
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 6's token_index 308
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 7's token_index 227
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 8's token_index 508
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 9's token_index 368
+Thu 25 May 2017 15:49:50 API.py[line:546] INFO 200 statuses/filter text thread 10's token_index 63
